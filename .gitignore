@@ -1,0 +1,14 @@
+# Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Data (regenerate with: python src/generate_logos.py)
+data/
+*.npy
+
+# Manually downloaded CLIP weights (~600 MB, too large for GitHub)
+models/clip/

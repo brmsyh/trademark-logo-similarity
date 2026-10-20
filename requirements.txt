@@ -1,0 +1,10 @@
+pillow
+numpy
+pandas
+matplotlib
+torch
+open_clip_torch
+faiss-cpu
+streamlit
+jupyter
+ipykernel
