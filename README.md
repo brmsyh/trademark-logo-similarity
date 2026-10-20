@@ -3,9 +3,9 @@
 Visual search engine that finds **confusingly similar logos** for trademark clearance, built with
 **CLIP + metric learning (triplet loss) + FAISS** and deployed as a Streamlit app.
 
-**[▶ Live demo](https://YOUR-APP.streamlit.app)** <!-- TODO: replace with your Streamlit URL -->
+**[▶ Live demo](https://trademark-logo-similarity.streamlit.app)** 
 
-![App screenshot](assets/app_screenshot.png) <!-- TODO: add a screenshot of the running app -->
+![App screenshot](assets/app_screenshot.png) 
 
 ---
 
