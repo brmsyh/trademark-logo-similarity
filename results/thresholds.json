@@ -1,0 +1,8 @@
+{
+  "high": 0.6777,
+  "medium": 0.5252,
+  "high_precision_target": 0.95,
+  "medium_precision_target": 0.7,
+  "recall_of_true_pairs_at_high": 0.7913,
+  "recall_of_true_pairs_at_medium": 0.9511
+}

@@ -1,0 +1,1351 @@
+filename,parent_id,is_parent,brand_text,variant_types
+p0007_v00.jpg,7,1,Peda Food,
+p0007_v01.jpg,7,0,Peda Food,scan_noise+crop_zoom
+p0007_v02.jpg,7,0,Peda Food,flip
+p0007_v03.jpg,7,0,Peda Food,shape_similar+flip
+p0007_v04.jpg,7,0,Peda Food,flip+grayscale
+p0007_v05.jpg,7,0,Peda Food,rotate
+p0007_v06.jpg,7,0,Peda,suffix_change+scan_noise
+p0007_v07.jpg,7,0,Peda Food,rotate
+p0007_v08.jpg,7,0,Peda Food,crop_zoom+grayscale+rotate
+p0026_v00.jpg,26,1,Keda Studio,
+p0026_v01.jpg,26,0,Kda Studio,text_typo+layout_shift
+p0026_v02.jpg,26,0,Keda,rotate+flip+suffix_change
+p0026_v03.jpg,26,0,Kea Studio,text_typo
+p0026_v04.jpg,26,0,Keda Studio,rotate
+p0026_v05.jpg,26,0,Keda Studio,color_shift+layout_shift
+p0026_v06.jpg,26,0,Keda,suffix_change+flip
+p0026_v07.jpg,26,0,Kedda Studio,layout_shift+shape_similar+text_typo
+p0026_v08.jpg,26,0,Keeda Studio,text_typo
+p0028_v00.jpg,28,1,Anmepena Kopi,
+p0028_v01.jpg,28,0,Anmepena Studio,scan_noise+suffix_change
+p0028_v02.jpg,28,0,Anmeepna Kopi,flip+text_typo
+p0028_v03.jpg,28,0,Anmepena Kopi,flip+crop_zoom+grayscale
+p0028_v04.jpg,28,0,Anmepena Kopi,shape_similar
+p0028_v05.jpg,28,0,Anmepena Kopi,grayscale
+p0028_v06.jpg,28,0,Anmepena Kopi,grayscale
+p0028_v07.jpg,28,0,Anmepena Kopi,rotate+flip
+p0028_v08.jpg,28,0,Anmepena Kopi,shape_similar+crop_zoom
+p0031_v00.jpg,31,1,Yaja Jaya,
+p0031_v01.jpg,31,0,Yaja Jaya,shape_similar
+p0031_v02.jpg,31,0,Yaja Jaya,scan_noise
+p0031_v03.jpg,31,0,Yaaja Jaya,text_typo+shape_similar
+p0031_v04.jpg,31,0,Yaja Jaya,grayscale
+p0031_v05.jpg,31,0,Yaja Jaya,shape_similar
+p0031_v06.jpg,31,0,Yaja Jaya,grayscale
+p0031_v07.jpg,31,0,Yaja Jaya,crop_zoom+layout_shift
+p0031_v08.jpg,31,0,Yaaja Studio,text_typo+suffix_change+flip
+p0033_v00.jpg,33,1,Angajasu Lab,
+p0033_v01.jpg,33,0,Angajasu Lab,rotate
+p0033_v02.jpg,33,0,Angajasu Lab,flip
+p0033_v03.jpg,33,0,Angajasu,suffix_change
+p0033_v04.jpg,33,0,Angajasu Studio,grayscale+color_shift+suffix_change
+p0033_v05.jpg,33,0,Angajasu Lab,flip
+p0033_v06.jpg,33,0,Anqajasu Lab,scan_noise+shape_similar+text_typo
+p0033_v07.jpg,33,0,Angajasu Group,suffix_change+shape_similar
+p0033_v08.jpg,33,0,Angajasu Lab,crop_zoom
+p0045_v00.jpg,45,1,Goyama Mart,
+p0045_v01.jpg,45,0,Goyama Mart,layout_shift+grayscale
+p0045_v02.jpg,45,0,Goyama Mart,grayscale
+p0045_v03.jpg,45,0,Goyama,rotate+suffix_change
+p0045_v04.jpg,45,0,Goyama Mart,flip+grayscale
+p0045_v05.jpg,45,0,Goyama Mart,color_shift+shape_similar
+p0045_v06.jpg,45,0,Goyama Mart,crop_zoom+layout_shift
+p0045_v07.jpg,45,0,Goyama Mart,layout_shift
+p0045_v08.jpg,45,0,Goyma Mart,text_typo+shape_similar
+p0047_v00.jpg,47,1,Tujajaan Tech,
+p0047_v01.jpg,47,0,Tujajaan Food,rotate+flip+suffix_change
+p0047_v02.jpg,47,0,Tujajaan,shape_similar+suffix_change
+p0047_v03.jpg,47,0,Tujajaan Tech,shape_similar
+p0047_v04.jpg,47,0,Tujajaan Tech,color_shift
+p0047_v05.jpg,47,0,Tujajaan Tech,rotate
+p0047_v06.jpg,47,0,Tujajaan Tech,layout_shift+crop_zoom
+p0047_v07.jpg,47,0,Tujajaan Tech,flip
+p0047_v08.jpg,47,0,Tujajaaan Tech,flip+text_typo
+p0058_v00.jpg,58,1,Dabukusi Food,
+p0058_v01.jpg,58,0,Dabukusi Food,flip+rotate
+p0058_v02.jpg,58,0,Dabukusi Jaya,suffix_change+layout_shift
+p0058_v03.jpg,58,0,Dabukusi Food,crop_zoom+flip+layout_shift
+p0058_v04.jpg,58,0,Dabukusi Food,flip
+p0058_v05.jpg,58,0,Dabukusi Food,rotate
+p0058_v06.jpg,58,0,Dabukusi Food,flip
+p0058_v07.jpg,58,0,Dabukusi Food,layout_shift+grayscale+flip
+p0058_v08.jpg,58,0,Dabukusi Food,shape_similar+flip
+p0068_v00.jpg,68,1,Rani Tea,
+p0068_v01.jpg,68,0,Rani Tea,flip
+p0068_v02.jpg,68,0,Rani Tea,layout_shift+rotate+scan_noise
+p0068_v03.jpg,68,0,Rani Tea,layout_shift
+p0068_v04.jpg,68,0,Rani Tea,crop_zoom+grayscale
+p0068_v05.jpg,68,0,Rnai Tea,text_typo
+p0068_v06.jpg,68,0,Rani Tech,suffix_change+grayscale
+p0068_v07.jpg,68,0,Rani Tea,grayscale+shape_similar
+p0068_v08.jpg,68,0,Raani Tea,layout_shift+text_typo
+p0072_v00.jpg,72,1,Wigotu Lab,
+p0072_v01.jpg,72,0,Wigotu Lab,crop_zoom
+p0072_v02.jpg,72,0,Wigotu Mart,suffix_change+flip
+p0072_v03.jpg,72,0,Wigotu Kopi,suffix_change+grayscale
+p0072_v04.jpg,72,0,Wigotu Lab,color_shift
+p0072_v05.jpg,72,0,Wigotu Lab,flip+shape_similar
+p0072_v06.jpg,72,0,Wiogtu Lab,text_typo
+p0072_v07.jpg,72,0,Wigotu Lab,scan_noise+rotate+grayscale
+p0072_v08.jpg,72,0,Wigotu Lab,flip+crop_zoom
+p0074_v00.jpg,74,1,Gope Mart,
+p0074_v01.jpg,74,0,Gope Mart,color_shift
+p0074_v02.jpg,74,0,Gope Tech,color_shift+suffix_change
+p0074_v03.jpg,74,0,Gope Mart,color_shift
+p0074_v04.jpg,74,0,Gope Mart,layout_shift
+p0074_v05.jpg,74,0,Gope,suffix_change+scan_noise+rotate
+p0074_v06.jpg,74,0,Goep Mart,crop_zoom+text_typo
+p0074_v07.jpg,74,0,Gope Mart,flip+crop_zoom+shape_similar
+p0074_v08.jpg,74,0,Goppe Mart,text_typo+scan_noise+layout_shift
+p0081_v00.jpg,81,1,Rago Food,
+p0081_v01.jpg,81,0,Rago Food,flip+rotate
+p0081_v02.jpg,81,0,Rago Food,crop_zoom
+p0081_v03.jpg,81,0,Rago Food,layout_shift+rotate+grayscale
+p0081_v04.jpg,81,0,Rago Food,shape_similar+crop_zoom+rotate
+p0081_v05.jpg,81,0,Rgao Food,text_typo+crop_zoom
+p0081_v06.jpg,81,0,Rago Food,color_shift
+p0081_v07.jpg,81,0,Rago Food,grayscale
+p0081_v08.jpg,81,0,Rago Food,grayscale
+p0082_v00.jpg,82,1,Saansanu Abadi,
+p0082_v01.jpg,82,0,Saansanu Abadi,scan_noise+flip
+p0082_v02.jpg,82,0,Saansanu Abadi,scan_noise
+p0082_v03.jpg,82,0,Saansanu Abadi,shape_similar+crop_zoom
+p0082_v04.jpg,82,0,Saansanu Abadi,crop_zoom
+p0082_v05.jpg,82,0,Saansanu Abadi,text_typo
+p0082_v06.jpg,82,0,Saansanu Abadi,text_typo+color_shift
+p0082_v07.jpg,82,0,Saansanu Abadi,color_shift+crop_zoom
+p0082_v08.jpg,82,0,Saansanu Abadi,flip
+p0090_v00.jpg,90,1,Ansatu Mart,
+p0090_v01.jpg,90,0,Ansatu Mart,shape_similar+color_shift
+p0090_v02.jpg,90,0,Ansatu Mart,crop_zoom
+p0090_v03.jpg,90,0,Ansatu Mart,grayscale+crop_zoom+color_shift
+p0090_v04.jpg,90,0,Ansatu Mart,rotate+color_shift
+p0090_v05.jpg,90,0,Ansaut Mart,text_typo+shape_similar+scan_noise
+p0090_v06.jpg,90,0,Anssatu Tea,suffix_change+text_typo
+p0090_v07.jpg,90,0,Ansatu Mart,crop_zoom+rotate
+p0090_v08.jpg,90,0,Ansatu Abadi,flip+suffix_change
+p0095_v00.jpg,95,1,Goriri Tea,
+p0095_v01.jpg,95,0,Goriri Abadi,scan_noise+grayscale+suffix_change
+p0095_v02.jpg,95,0,Goriri Tea,rotate+layout_shift+grayscale
+p0095_v03.jpg,95,0,Gorirri Tea,flip+text_typo
+p0095_v04.jpg,95,0,Goriri Tea,flip+rotate
+p0095_v05.jpg,95,0,Goriri Tea,shape_similar
+p0095_v06.jpg,95,0,Gooriri Tea,text_typo+grayscale+layout_shift
+p0095_v07.jpg,95,0,Goriri Tea,grayscale+crop_zoom
+p0095_v08.jpg,95,0,Goriri Tea,grayscale+color_shift
+p0096_v00.jpg,96,1,Dilonasa Mart,
+p0096_v01.jpg,96,0,Dilonasa Mart,crop_zoom
+p0096_v02.jpg,96,0,Dilonasa Mart,grayscale+flip
+p0096_v03.jpg,96,0,Dilonasa Mart,grayscale
+p0096_v04.jpg,96,0,Dilonasa Mart,grayscale
+p0096_v05.jpg,96,0,Dilonasa Mart,grayscale
+p0096_v06.jpg,96,0,Dilunasa Mart,layout_shift+text_typo
+p0096_v07.jpg,96,0,Dilonasa Mart,layout_shift+flip+rotate
+p0096_v08.jpg,96,0,Dilonasa Mart,crop_zoom
+p0100_v00.jpg,100,1,Bula Lab,
+p0100_v01.jpg,100,0,Bua Lab,text_typo
+p0100_v02.jpg,100,0,Bual Lab,text_typo+color_shift+flip
+p0100_v03.jpg,100,0,Bula Lab,layout_shift
+p0100_v04.jpg,100,0,Bula Lab,grayscale
+p0100_v05.jpg,100,0,Bula Lab,layout_shift
+p0100_v06.jpg,100,0,Bula Lab,color_shift
+p0100_v07.jpg,100,0,Bula Lab,grayscale
+p0100_v08.jpg,100,0,Bula Lab,shape_similar+rotate
+p0104_v00.jpg,104,1,Natugo Lab,
+p0104_v01.jpg,104,0,Natugo Lab,scan_noise+crop_zoom
+p0104_v02.jpg,104,0,Natugo Lab,rotate+text_typo
+p0104_v03.jpg,104,0,Natugo Lab,color_shift
+p0104_v04.jpg,104,0,Natugo Lab,layout_shift
+p0104_v05.jpg,104,0,Natugo Lab,layout_shift+text_typo+shape_similar
+p0104_v06.jpg,104,0,Natugo Lab,crop_zoom
+p0104_v07.jpg,104,0,Natugo Lab,layout_shift+grayscale
+p0104_v08.jpg,104,0,Natugo Lab,color_shift+text_typo
+p0105_v00.jpg,105,1,Tunato Studio,
+p0105_v01.jpg,105,0,Tunato Studio,crop_zoom+text_typo
+p0105_v02.jpg,105,0,Tunato Studio,scan_noise+color_shift
+p0105_v03.jpg,105,0,Tunato Studio,flip
+p0105_v04.jpg,105,0,Tunato Studio,crop_zoom+shape_similar+grayscale
+p0105_v05.jpg,105,0,Tunato Studio,shape_similar+layout_shift
+p0105_v06.jpg,105,0,Tunato Studio,layout_shift
+p0105_v07.jpg,105,0,Tunato Studio,rotate+layout_shift
+p0105_v08.jpg,105,0,Tunato Studio,shape_similar
+p0115_v00.jpg,115,1,Bamama Lab,
+p0115_v01.jpg,115,0,Bamama Lab,color_shift
+p0115_v02.jpg,115,0,Bamama Lab,grayscale+shape_similar
+p0115_v03.jpg,115,0,Bamama Lab,rotate+flip
+p0115_v04.jpg,115,0,Bamama Lab,rotate
+p0115_v05.jpg,115,0,Bamama Lab,crop_zoom
+p0115_v06.jpg,115,0,Bamama Lab,grayscale
+p0115_v07.jpg,115,0,Bamama Lab,color_shift+grayscale
+p0115_v08.jpg,115,0,Bamama Lab,shape_similar
+p0128_v00.jpg,128,1,Nilo Tea,
+p0128_v01.jpg,128,0,Nilo Tea,flip+grayscale
+p0128_v02.jpg,128,0,Nilo Tea,crop_zoom
+p0128_v03.jpg,128,0,Nilo Tea,crop_zoom
+p0128_v04.jpg,128,0,Nilo Tea,color_shift+layout_shift+scan_noise
+p0128_v05.jpg,128,0,Nilo Tea,rotate
+p0128_v06.jpg,128,0,Nilo Tea,flip
+p0128_v07.jpg,128,0,Nilo,suffix_change+color_shift
+p0128_v08.jpg,128,0,Nilo Tea,color_shift
+p0143_v00.jpg,143,1,Kututome Jaya,
+p0143_v01.jpg,143,0,Kotutome Group,text_typo+suffix_change+scan_noise
+p0143_v02.jpg,143,0,Kuttome Jaya,text_typo+scan_noise
+p0143_v03.jpg,143,0,Ktutome Jaya,rotate+grayscale+text_typo
+p0143_v04.jpg,143,0,Kututome Jaya,scan_noise+layout_shift
+p0143_v05.jpg,143,0,Kututome Jaya,rotate
+p0143_v06.jpg,143,0,Kututome Mart,grayscale+suffix_change
+p0143_v07.jpg,143,0,Kututome Jaya,crop_zoom+rotate
+p0143_v08.jpg,143,0,Kututome Jaya,color_shift+shape_similar+grayscale
+p0147_v00.jpg,147,1,Rotutolo Tech,
+p0147_v01.jpg,147,0,Rotutolo Tech,flip
+p0147_v02.jpg,147,0,Rotutolo Mart,crop_zoom+suffix_change
+p0147_v03.jpg,147,0,Rotutolo Tech,grayscale
+p0147_v04.jpg,147,0,Rotutolo Tech,layout_shift+crop_zoom
+p0147_v05.jpg,147,0,Rotuttolo Lab,suffix_change+color_shift+text_typo
+p0147_v06.jpg,147,0,Rotutolo Tech,shape_similar
+p0147_v07.jpg,147,0,Rotutolo Tech,shape_similar+crop_zoom
+p0147_v08.jpg,147,0,Rotutolo Tech,layout_shift+color_shift
+p0160_v00.jpg,160,1,Loke,
+p0160_v01.jpg,160,0,Loke,crop_zoom+shape_similar+grayscale
+p0160_v02.jpg,160,0,Loke,flip
+p0160_v03.jpg,160,0,Loke,crop_zoom+rotate
+p0160_v04.jpg,160,0,Loke,grayscale
+p0160_v05.jpg,160,0,Loke,scan_noise+color_shift+rotate
+p0160_v06.jpg,160,0,Loke,crop_zoom
+p0160_v07.jpg,160,0,Loke,layout_shift+flip
+p0160_v08.jpg,160,0,Loke,color_shift+layout_shift+crop_zoom
+p0164_v00.jpg,164,1,Witoka Tea,
+p0164_v01.jpg,164,0,Wiotka Tea,text_typo
+p0164_v02.jpg,164,0,Witooka Tea,text_typo+crop_zoom+color_shift
+p0164_v03.jpg,164,0,Witoka Tea,shape_similar+scan_noise
+p0164_v04.jpg,164,0,Witoka Tea,flip+rotate
+p0164_v05.jpg,164,0,Witoka Tea,scan_noise+shape_similar
+p0164_v06.jpg,164,0,Witoka Tech,shape_similar+flip+suffix_change
+p0164_v07.jpg,164,0,Wtioka Tea,rotate+text_typo
+p0164_v08.jpg,164,0,Witoka,scan_noise+shape_similar+suffix_change
+p0167_v00.jpg,167,1,Nikuloma Jaya,
+p0167_v01.jpg,167,0,Nikuloma Jaya,scan_noise
+p0167_v02.jpg,167,0,Nikuloma Jaya,shape_similar+color_shift+flip
+p0167_v03.jpg,167,0,Nikuloma Jaya,color_shift
+p0167_v04.jpg,167,0,Nikuloma Jaya,flip+shape_similar+rotate
+p0167_v05.jpg,167,0,Nikuloma Jaya,shape_similar+layout_shift
+p0167_v06.jpg,167,0,Nikulomaa Jaya,scan_noise+layout_shift+text_typo
+p0167_v07.jpg,167,0,Nikulloma Studio,text_typo+suffix_change
+p0167_v08.jpg,167,0,Nikuloma Jaya,rotate
+p0168_v00.jpg,168,1,Ronida Mart,
+p0168_v01.jpg,168,0,Ronida Mart,layout_shift
+p0168_v02.jpg,168,0,Ronida Mart,layout_shift
+p0168_v03.jpg,168,0,Ronide Mart,shape_similar+text_typo+rotate
+p0168_v04.jpg,168,0,Ronida Mart,rotate+crop_zoom
+p0168_v05.jpg,168,0,Ronida Mart,crop_zoom
+p0168_v06.jpg,168,0,Ronida Mart,rotate
+p0168_v07.jpg,168,0,Ronida Mart,shape_similar+color_shift+crop_zoom
+p0168_v08.jpg,168,0,Ronida Mart,layout_shift
+p0176_v00.jpg,176,1,Sila Tech,
+p0176_v01.jpg,176,0,Sila Tech,flip
+p0176_v02.jpg,176,0,Sila Tech,rotate
+p0176_v03.jpg,176,0,Sila Tech,rotate+layout_shift
+p0176_v04.jpg,176,0,Sila Tech,scan_noise+color_shift
+p0176_v05.jpg,176,0,Sia Tech,color_shift+flip+text_typo
+p0176_v06.jpg,176,0,Sila Tech,shape_similar
+p0176_v07.jpg,176,0,Sia Tech,text_typo+rotate
+p0176_v08.jpg,176,0,Sila Tech,flip+scan_noise
+p0197_v00.jpg,197,1,Raya Food,
+p0197_v01.jpg,197,0,Raaya Food,color_shift+rotate+text_typo
+p0197_v02.jpg,197,0,Rya Food,grayscale+rotate+text_typo
+p0197_v03.jpg,197,0,Raya Food,crop_zoom
+p0197_v04.jpg,197,0,Raya Food,grayscale
+p0197_v05.jpg,197,0,Raya Jaya,grayscale+suffix_change
+p0197_v06.jpg,197,0,Raya Food,crop_zoom
+p0197_v07.jpg,197,0,Raia Food,color_shift+crop_zoom+text_typo
+p0197_v08.jpg,197,0,Raa Food,text_typo
+p0204_v00.jpg,204,1,Sagari Tea,
+p0204_v01.jpg,204,0,Sgari Tea,text_typo+rotate
+p0204_v02.jpg,204,0,Saggari Studio,suffix_change+text_typo
+p0204_v03.jpg,204,0,Sgaari Tea,text_typo+rotate
+p0204_v04.jpg,204,0,Sagari Tea,shape_similar+crop_zoom
+p0204_v05.jpg,204,0,Sagari Studio,suffix_change+color_shift
+p0204_v06.jpg,204,0,Sagari Tea,scan_noise+flip
+p0204_v07.jpg,204,0,Sagari Tea,rotate
+p0204_v08.jpg,204,0,Sagari Tea,color_shift+grayscale+layout_shift
+p0215_v00.jpg,215,1,Salotu Tech,
+p0215_v01.jpg,215,0,Salotu Tech,color_shift
+p0215_v02.jpg,215,0,Saoltu Group,suffix_change+text_typo
+p0215_v03.jpg,215,0,Salotu Tech,shape_similar+crop_zoom
+p0215_v04.jpg,215,0,Salotu Tech,color_shift
+p0215_v05.jpg,215,0,Saalotu Tech,text_typo
+p0215_v06.jpg,215,0,Saltou Tech,text_typo+flip
+p0215_v07.jpg,215,0,Salotu Tech,grayscale
+p0215_v08.jpg,215,0,Salotu Tech,rotate+flip
+p0217_v00.jpg,217,1,Gatuni Lab,
+p0217_v01.jpg,217,0,Gauni Lab,text_typo
+p0217_v02.jpg,217,0,Gatuni Lab,grayscale
+p0217_v03.jpg,217,0,Gatuni Lab,color_shift+scan_noise+crop_zoom
+p0217_v04.jpg,217,0,Gatuni Lab,color_shift+layout_shift
+p0217_v05.jpg,217,0,Gatuni Lab,scan_noise+flip
+p0217_v06.jpg,217,0,Gatuni Lab,color_shift
+p0217_v07.jpg,217,0,Gatuni Lab,scan_noise
+p0217_v08.jpg,217,0,Gautni Lab,scan_noise+text_typo
+p0218_v00.jpg,218,1,Wita Studio,
+p0218_v01.jpg,218,0,Wit,text_typo+suffix_change+crop_zoom
+p0218_v02.jpg,218,0,Wita Studio,flip
+p0218_v03.jpg,218,0,Wita Studio,shape_similar+layout_shift
+p0218_v04.jpg,218,0,Wita Studio,color_shift+shape_similar
+p0218_v05.jpg,218,0,Wita Studio,grayscale+shape_similar
+p0218_v06.jpg,218,0,Wita Studio,grayscale+crop_zoom
+p0218_v07.jpg,218,0,Wita Studio,shape_similar
+p0218_v08.jpg,218,0,Wite Studio,text_typo+flip
+p0221_v00.jpg,221,1,Nagayabu Jaya,
+p0221_v01.jpg,221,0,Nagayabu Jaya,text_typo+grayscale
+p0221_v02.jpg,221,0,Nagayabu Jaya,layout_shift+grayscale
+p0221_v03.jpg,221,0,Nagayabu Jaya,rotate
+p0221_v04.jpg,221,0,Nagayabu Jaya,scan_noise+grayscale
+p0221_v05.jpg,221,0,Nagayabu Jaya,crop_zoom+grayscale
+p0221_v06.jpg,221,0,Nagayabu Jaya,color_shift+rotate
+p0221_v07.jpg,221,0,Nagayabu Jaya,color_shift+crop_zoom
+p0221_v08.jpg,221,0,Nagayabu Jaya,shape_similar+text_typo
+p0224_v00.jpg,224,1,Gokuni Mart,
+p0224_v01.jpg,224,0,Gokuni Mart,color_shift
+p0224_v02.jpg,224,0,Gokuin Mart,text_typo+flip
+p0224_v03.jpg,224,0,Gokuni Mart,rotate+color_shift
+p0224_v04.jpg,224,0,Gokuni Lab,suffix_change+scan_noise
+p0224_v05.jpg,224,0,Gokuni Kopi,shape_similar+suffix_change
+p0224_v06.jpg,224,0,Gokuni Mart,layout_shift+scan_noise
+p0224_v07.jpg,224,0,Gokuni Studio,suffix_change
+p0224_v08.jpg,224,0,Gokuni Mart,layout_shift
+p0225_v00.jpg,225,1,Dasunuto Group,
+p0225_v01.jpg,225,0,Dasunuto Group,shape_similar+crop_zoom+rotate
+p0225_v02.jpg,225,0,Dasunuto Group,rotate+color_shift
+p0225_v03.jpg,225,0,Dasunuto Group,crop_zoom+color_shift
+p0225_v04.jpg,225,0,Dasunuto Group,scan_noise+layout_shift
+p0225_v05.jpg,225,0,Dasunuto Group,color_shift
+p0225_v06.jpg,225,0,Dasunuto Group,flip
+p0225_v07.jpg,225,0,Dasunuto Abadi,shape_similar+flip+suffix_change
+p0225_v08.jpg,225,0,Dasunuto Group,layout_shift+shape_similar+color_shift
+p0226_v00.jpg,226,1,Burabu Lab,
+p0226_v01.jpg,226,0,Burabu Lab,crop_zoom+layout_shift+shape_similar
+p0226_v02.jpg,226,0,Burabu Lab,color_shift+layout_shift
+p0226_v03.jpg,226,0,Burabu Lab,shape_similar
+p0226_v04.jpg,226,0,Burabuu Lab,text_typo
+p0226_v05.jpg,226,0,Burabu Lab,flip+grayscale
+p0226_v06.jpg,226,0,Buurabu Lab,rotate+layout_shift+text_typo
+p0226_v07.jpg,226,0,Burabu Lab,flip+grayscale
+p0226_v08.jpg,226,0,Burabu Lab,flip
+p0229_v00.jpg,229,1,Diraro Mart,
+p0229_v01.jpg,229,0,Diraro Mart,shape_similar
+p0229_v02.jpg,229,0,Diraro,shape_similar+suffix_change
+p0229_v03.jpg,229,0,Diraro Mart,rotate
+p0229_v04.jpg,229,0,Diaro Mart,color_shift+text_typo
+p0229_v05.jpg,229,0,Diraro Mart,crop_zoom+layout_shift
+p0229_v06.jpg,229,0,Diraro Mart,color_shift+scan_noise
+p0229_v07.jpg,229,0,Diraro Mart,rotate+color_shift
+p0229_v08.jpg,229,0,Diraro Mart,grayscale+shape_similar
+p0234_v00.jpg,234,1,Subunawi Group,
+p0234_v01.jpg,234,0,Subunaei,text_typo+shape_similar+suffix_change
+p0234_v02.jpg,234,0,Subunawi Group,flip
+p0234_v03.jpg,234,0,Subunawi Group,shape_similar
+p0234_v04.jpg,234,0,Subunawi Group,grayscale
+p0234_v05.jpg,234,0,Subunawi Group,shape_similar
+p0234_v06.jpg,234,0,Subunawi Group,flip
+p0234_v07.jpg,234,0,Subunawi Group,rotate
+p0234_v08.jpg,234,0,Subunawii Group,text_typo
+p0235_v00.jpg,235,1,Sudisi Jaya,
+p0235_v01.jpg,235,0,Sudisi Jaya,color_shift+layout_shift
+p0235_v02.jpg,235,0,Sudisi Jaya,crop_zoom+layout_shift
+p0235_v03.jpg,235,0,Sudisi Jaya,scan_noise
+p0235_v04.jpg,235,0,Sudisi Jaya,layout_shift+shape_similar
+p0235_v05.jpg,235,0,Sudisi Kopi,layout_shift+suffix_change
+p0235_v06.jpg,235,0,Sudisi Jaya,flip+shape_similar
+p0235_v07.jpg,235,0,Sudisi Jaya,layout_shift
+p0235_v08.jpg,235,0,Sudisi Jaya,crop_zoom+layout_shift
+p0239_v00.jpg,239,1,Digala Mart,
+p0239_v01.jpg,239,0,Digala Mart,color_shift
+p0239_v02.jpg,239,0,Digala Mart,shape_similar
+p0239_v03.jpg,239,0,Diqala Mart,grayscale+crop_zoom+text_typo
+p0239_v04.jpg,239,0,Digala Mart,rotate+crop_zoom
+p0239_v05.jpg,239,0,Digala Mart,shape_similar
+p0239_v06.jpg,239,0,Digale Food,suffix_change+scan_noise+text_typo
+p0239_v07.jpg,239,0,Digala Mart,color_shift
+p0239_v08.jpg,239,0,Digala Mart,color_shift
+p0251_v00.jpg,251,1,Siranu Food,
+p0251_v01.jpg,251,0,Siranu Food,text_typo
+p0251_v02.jpg,251,0,Siranu Food,scan_noise+crop_zoom
+p0251_v03.jpg,251,0,Siranu Food,layout_shift+scan_noise
+p0251_v04.jpg,251,0,Siranu Food,flip
+p0251_v05.jpg,251,0,Siranu Food,layout_shift
+p0251_v06.jpg,251,0,Siranu Food,rotate+grayscale+flip
+p0251_v07.jpg,251,0,Siranu Food,grayscale+text_typo+flip
+p0251_v08.jpg,251,0,Siranu Food,flip+crop_zoom
+p0253_v00.jpg,253,1,Baro Abadi,
+p0253_v01.jpg,253,0,Baro Abadi,flip+crop_zoom+text_typo
+p0253_v02.jpg,253,0,Baro Abadi,layout_shift+grayscale+shape_similar
+p0253_v03.jpg,253,0,Baro Abadi,text_typo+scan_noise+shape_similar
+p0253_v04.jpg,253,0,Baro Abadi,grayscale+flip
+p0253_v05.jpg,253,0,Baro Abadi,flip
+p0253_v06.jpg,253,0,Baro Abadi,rotate+grayscale
+p0253_v07.jpg,253,0,Baro Abadi,text_typo+grayscale
+p0253_v08.jpg,253,0,Baro Abadi,crop_zoom+shape_similar
+p0271_v00.jpg,271,1,Tuga Mart,
+p0271_v01.jpg,271,0,Tuga Mart,crop_zoom
+p0271_v02.jpg,271,0,Tuga Mart,color_shift+grayscale
+p0271_v03.jpg,271,0,Tuga Mart,layout_shift+rotate
+p0271_v04.jpg,271,0,Tuga Kopi,suffix_change
+p0271_v05.jpg,271,0,Tuga Mart,scan_noise
+p0271_v06.jpg,271,0,Tua Mart,text_typo+scan_noise+crop_zoom
+p0271_v07.jpg,271,0,Tuga,crop_zoom+flip+suffix_change
+p0271_v08.jpg,271,0,Tugga Mart,color_shift+text_typo+flip
+p0272_v00.jpg,272,1,Memaridi Abadi,
+p0272_v01.jpg,272,0,Memaridi Abadi,grayscale
+p0272_v02.jpg,272,0,Memaridi Abadi,scan_noise
+p0272_v03.jpg,272,0,Memaridi Abadi,scan_noise
+p0272_v04.jpg,272,0,Memaridi Abadi,flip+rotate
+p0272_v05.jpg,272,0,Memaridi Abadi,layout_shift+flip+crop_zoom
+p0272_v06.jpg,272,0,Memaridi Abadi,flip
+p0272_v07.jpg,272,0,Memaridi Abadi,text_typo
+p0272_v08.jpg,272,0,Memaridi Abadi,crop_zoom+rotate+scan_noise
+p0274_v00.jpg,274,1,Rowi Kopi,
+p0274_v01.jpg,274,0,Rowi Tech,suffix_change+shape_similar+rotate
+p0274_v02.jpg,274,0,Rowi Kopi,color_shift
+p0274_v03.jpg,274,0,Rowi,flip+suffix_change
+p0274_v04.jpg,274,0,Rowi Kopi,layout_shift+rotate
+p0274_v05.jpg,274,0,Rowi Kopi,flip
+p0274_v06.jpg,274,0,Rowi Kopi,flip+grayscale
+p0274_v07.jpg,274,0,Rwoi Kopi,text_typo+grayscale
+p0274_v08.jpg,274,0,Roowi Kopi,layout_shift+text_typo
+p0275_v00.jpg,275,1,Nigo Jaya,
+p0275_v01.jpg,275,0,Nigo Food,crop_zoom+suffix_change
+p0275_v02.jpg,275,0,Nigo Jaya,grayscale+scan_noise
+p0275_v03.jpg,275,0,Nigo Jaya,crop_zoom+grayscale
+p0275_v04.jpg,275,0,Niigo Jaya,scan_noise+text_typo+rotate
+p0275_v05.jpg,275,0,Nigo Jaya,scan_noise+flip+color_shift
+p0275_v06.jpg,275,0,Nigo Jaya,rotate+scan_noise
+p0275_v07.jpg,275,0,Nigo Tech,color_shift+rotate+suffix_change
+p0275_v08.jpg,275,0,Nigo Jaya,scan_noise
+p0277_v00.jpg,277,1,Anya Studio,
+p0277_v01.jpg,277,0,Anya Studio,text_typo
+p0277_v02.jpg,277,0,Anya Studio,shape_similar
+p0277_v03.jpg,277,0,Anya Studio,text_typo
+p0277_v04.jpg,277,0,Anya Studio,scan_noise
+p0277_v05.jpg,277,0,Anya Studio,crop_zoom
+p0277_v06.jpg,277,0,Anya Studio,color_shift
+p0277_v07.jpg,277,0,Anya Studio,flip+color_shift
+p0277_v08.jpg,277,0,Anya Studio,text_typo+rotate
+p0282_v00.jpg,282,1,Pema Food,
+p0282_v01.jpg,282,0,Pema Food,shape_similar+layout_shift+scan_noise
+p0282_v02.jpg,282,0,Pema Food,color_shift+flip
+p0282_v03.jpg,282,0,Pema Food,rotate+layout_shift+color_shift
+p0282_v04.jpg,282,0,Pema Food,flip+crop_zoom
+p0282_v05.jpg,282,0,Pema Food,crop_zoom+flip+scan_noise
+p0282_v06.jpg,282,0,Pema Food,shape_similar+scan_noise
+p0282_v07.jpg,282,0,Pema Food,color_shift
+p0282_v08.jpg,282,0,Pema Food,flip+grayscale
+p0285_v00.jpg,285,1,Kerisu Group,
+p0285_v01.jpg,285,0,Kerisu Lab,suffix_change
+p0285_v02.jpg,285,0,Kerisu Group,flip
+p0285_v03.jpg,285,0,Kerisu Group,scan_noise
+p0285_v04.jpg,285,0,Kerisu Group,grayscale
+p0285_v05.jpg,285,0,Kerrisu Group,shape_similar+text_typo+color_shift
+p0285_v06.jpg,285,0,Kerisu Lab,suffix_change+grayscale
+p0285_v07.jpg,285,0,Kerisu Group,shape_similar
+p0285_v08.jpg,285,0,Kerisu Group,scan_noise+color_shift
+p0297_v00.jpg,297,1,Wike Tea,
+p0297_v01.jpg,297,0,Wike Tea,scan_noise
+p0297_v02.jpg,297,0,Wike Tea,color_shift+grayscale+rotate
+p0297_v03.jpg,297,0,Wike Tea,grayscale+color_shift
+p0297_v04.jpg,297,0,Wike Tea,scan_noise+layout_shift
+p0297_v05.jpg,297,0,Wike Tea,shape_similar
+p0297_v06.jpg,297,0,Wike Kopi,suffix_change
+p0297_v07.jpg,297,0,Wike Tea,grayscale+layout_shift+flip
+p0297_v08.jpg,297,0,Wike Tea,shape_similar
+p0301_v00.jpg,301,1,Kuroku Mart,
+p0301_v01.jpg,301,0,Kuroku Mart,shape_similar+scan_noise
+p0301_v02.jpg,301,0,Kuroku Mart,flip+shape_similar
+p0301_v03.jpg,301,0,Kuroku Mart,rotate+flip+shape_similar
+p0301_v04.jpg,301,0,Kuroku Tea,rotate+suffix_change
+p0301_v05.jpg,301,0,Kuroku Mart,flip
+p0301_v06.jpg,301,0,Kuroku Mart,flip
+p0301_v07.jpg,301,0,Kuoku Mart,crop_zoom+text_typo
+p0301_v08.jpg,301,0,Kuroku Lab,suffix_change
+p0323_v00.jpg,323,1,Kanubama Tech,
+p0323_v01.jpg,323,0,Kanubama Tech,layout_shift
+p0323_v02.jpg,323,0,Kaubama Abadi,text_typo+crop_zoom+suffix_change
+p0323_v03.jpg,323,0,Kanubama Tech,flip
+p0323_v04.jpg,323,0,Kanubama Tech,color_shift
+p0323_v05.jpg,323,0,Kanubama Tech,layout_shift+rotate
+p0323_v06.jpg,323,0,Kanubama,layout_shift+suffix_change
+p0323_v07.jpg,323,0,Kanubama Tech,layout_shift
+p0323_v08.jpg,323,0,Kanubama,suffix_change+crop_zoom+rotate
+p0324_v00.jpg,324,1,Nakawi Lab,
+p0324_v01.jpg,324,0,Nkawi Lab,text_typo+color_shift
+p0324_v02.jpg,324,0,Nkawi Lab,flip+text_typo+rotate
+p0324_v03.jpg,324,0,Nakawi Lab,rotate+color_shift+scan_noise
+p0324_v04.jpg,324,0,Nakawi Lab,flip+color_shift
+p0324_v05.jpg,324,0,Nakawi Mart,suffix_change
+p0324_v06.jpg,324,0,Nakawi Lab,shape_similar+layout_shift
+p0324_v07.jpg,324,0,Nakawi Lab,shape_similar+color_shift
+p0324_v08.jpg,324,0,Nakawi Group,scan_noise+suffix_change
+p0333_v00.jpg,333,1,Kake Tea,
+p0333_v01.jpg,333,0,Kake Tea,scan_noise+color_shift
+p0333_v02.jpg,333,0,Kake Tea,color_shift+grayscale
+p0333_v03.jpg,333,0,Kake Mart,suffix_change
+p0333_v04.jpg,333,0,Kake Tech,suffix_change+layout_shift
+p0333_v05.jpg,333,0,Kake Jaya,suffix_change+layout_shift
+p0333_v06.jpg,333,0,Kake Tea,shape_similar+color_shift+flip
+p0333_v07.jpg,333,0,Kake Tea,grayscale+crop_zoom
+p0333_v08.jpg,333,0,Kake Tea,scan_noise
+p0345_v00.jpg,345,1,Tulasa Food,
+p0345_v01.jpg,345,0,Tulasa Food,shape_similar+text_typo
+p0345_v02.jpg,345,0,Tulasa Food,crop_zoom
+p0345_v03.jpg,345,0,Tulasa Food,shape_similar
+p0345_v04.jpg,345,0,Tulasa Food,color_shift+crop_zoom
+p0345_v05.jpg,345,0,Tulasa Food,grayscale
+p0345_v06.jpg,345,0,Tulasa Food,crop_zoom
+p0345_v07.jpg,345,0,Tulasa Food,scan_noise
+p0345_v08.jpg,345,0,Tulasa Food,grayscale+flip
+p0349_v00.jpg,349,1,Wisa,
+p0349_v01.jpg,349,0,Wisa,layout_shift
+p0349_v02.jpg,349,0,Wisa,color_shift
+p0349_v03.jpg,349,0,Wisa,shape_similar+color_shift
+p0349_v04.jpg,349,0,Wlsa,text_typo+layout_shift+flip
+p0349_v05.jpg,349,0,Wisa,rotate+shape_similar
+p0349_v06.jpg,349,0,Wissa,text_typo+crop_zoom
+p0349_v07.jpg,349,0,Wisa,layout_shift
+p0349_v08.jpg,349,0,Wisa Mart,suffix_change
+p0353_v00.jpg,353,1,Nidi Food,
+p0353_v01.jpg,353,0,Nidi,suffix_change+grayscale
+p0353_v02.jpg,353,0,Nidi Food,shape_similar+scan_noise
+p0353_v03.jpg,353,0,Nidi Food,layout_shift+scan_noise
+p0353_v04.jpg,353,0,Nibi Food,text_typo
+p0353_v05.jpg,353,0,Nid Food,text_typo+rotate
+p0353_v06.jpg,353,0,Nidi Food,flip+grayscale
+p0353_v07.jpg,353,0,Nidi Food,flip
+p0353_v08.jpg,353,0,Nidi Food,shape_similar
+p0364_v00.jpg,364,1,Gopewila Food,
+p0364_v01.jpg,364,0,Gopewila Food,shape_similar
+p0364_v02.jpg,364,0,Gopewila Studio,crop_zoom+suffix_change+rotate
+p0364_v03.jpg,364,0,Gopewila Food,shape_similar
+p0364_v04.jpg,364,0,Gopewila Food,flip
+p0364_v05.jpg,364,0,Gopewila Food,rotate
+p0364_v06.jpg,364,0,Gopewila Kopi,layout_shift+suffix_change+scan_noise
+p0364_v07.jpg,364,0,Gopewila Food,flip
+p0364_v08.jpg,364,0,Gopewila Studio,suffix_change+shape_similar
+p0368_v00.jpg,368,1,Sagatabu Kopi,
+p0368_v01.jpg,368,0,Sagatabu Kopi,crop_zoom+grayscale
+p0368_v02.jpg,368,0,Sagatabu Kopi,rotate+flip
+p0368_v03.jpg,368,0,Sagatabu Kopi,scan_noise+crop_zoom
+p0368_v04.jpg,368,0,Sagatabu Kopi,rotate+color_shift
+p0368_v05.jpg,368,0,Sagatabu Kopi,layout_shift+crop_zoom
+p0368_v06.jpg,368,0,Sagatabu Kopi,shape_similar+grayscale
+p0368_v07.jpg,368,0,Sagatabu Kopi,text_typo
+p0368_v08.jpg,368,0,Sagatabu Kopi,layout_shift+color_shift+text_typo
+p0371_v00.jpg,371,1,Nugowi Food,
+p0371_v01.jpg,371,0,Nugowi Studio,rotate+grayscale+suffix_change
+p0371_v02.jpg,371,0,Nugowii Food,layout_shift+text_typo
+p0371_v03.jpg,371,0,Nugowi Tech,suffix_change
+p0371_v04.jpg,371,0,Nugoowi Food,text_typo+shape_similar
+p0371_v05.jpg,371,0,Nugowi Tea,flip+scan_noise+suffix_change
+p0371_v06.jpg,371,0,Nugowi Food,scan_noise+shape_similar
+p0371_v07.jpg,371,0,Nugowwi Food,text_typo+rotate
+p0371_v08.jpg,371,0,Nugowi Food,rotate
+p0374_v00.jpg,374,1,Tarasira,
+p0374_v01.jpg,374,0,Tarasira,shape_similar+scan_noise
+p0374_v02.jpg,374,0,Tarasira,scan_noise+rotate
+p0374_v03.jpg,374,0,Tarasira,crop_zoom+scan_noise
+p0374_v04.jpg,374,0,Tarasira,shape_similar+color_shift
+p0374_v05.jpg,374,0,Tarasira,layout_shift+rotate
+p0374_v06.jpg,374,0,Tarasira,flip
+p0374_v07.jpg,374,0,Tarasira,text_typo+flip
+p0374_v08.jpg,374,0,Tarasira,scan_noise+flip
+p0380_v00.jpg,380,1,Radinusu Jaya,
+p0380_v01.jpg,380,0,Radinusu Jaya,scan_noise
+p0380_v02.jpg,380,0,Radinusu Jaya,crop_zoom+rotate+flip
+p0380_v03.jpg,380,0,Radinusu Jaya,color_shift
+p0380_v04.jpg,380,0,Radinusu Jaya,scan_noise+rotate
+p0380_v05.jpg,380,0,Radinusu Mart,suffix_change
+p0380_v06.jpg,380,0,Radinusu Jaya,scan_noise
+p0380_v07.jpg,380,0,Radinusu Jaya,rotate+color_shift
+p0380_v08.jpg,380,0,Radinusu Jaya,layout_shift
+p0388_v00.jpg,388,1,Rologa Kopi,
+p0388_v01.jpg,388,0,Rologa,shape_similar+suffix_change+scan_noise
+p0388_v02.jpg,388,0,Rolga Kopi,rotate+text_typo
+p0388_v03.jpg,388,0,Roologa Kopi,text_typo
+p0388_v04.jpg,388,0,Rologa Kopi,flip
+p0388_v05.jpg,388,0,Rologa Mart,suffix_change+flip
+p0388_v06.jpg,388,0,Rologa Jaya,suffix_change+flip
+p0388_v07.jpg,388,0,Rologa Kopi,rotate
+p0388_v08.jpg,388,0,Rologa Food,suffix_change+layout_shift
+p0389_v00.jpg,389,1,Pero Tech,
+p0389_v01.jpg,389,0,Peero Tech,rotate+text_typo
+p0389_v02.jpg,389,0,Pero Tech,color_shift+flip
+p0389_v03.jpg,389,0,Pero Tech,flip+crop_zoom
+p0389_v04.jpg,389,0,Pero Tech,flip
+p0389_v05.jpg,389,0,Pero Tech,scan_noise
+p0389_v06.jpg,389,0,Pero Tech,shape_similar+rotate+color_shift
+p0389_v07.jpg,389,0,Paro Tech,text_typo
+p0389_v08.jpg,389,0,Pero Tech,rotate+color_shift
+p0390_v00.jpg,390,1,Ladaan Studio,
+p0390_v01.jpg,390,0,Ladaan Studio,scan_noise
+p0390_v02.jpg,390,0,Ladaa Studio,text_typo
+p0390_v03.jpg,390,0,Ladaan Studio,shape_similar
+p0390_v04.jpg,390,0,Ladaan Studio,color_shift
+p0390_v05.jpg,390,0,Ladana Studio,text_typo+flip
+p0390_v06.jpg,390,0,Ladaan Studio,color_shift+flip
+p0390_v07.jpg,390,0,Ladaan Studio,crop_zoom
+p0390_v08.jpg,390,0,Ladaan Tea,suffix_change
+p0406_v00.jpg,406,1,Masigo Food,
+p0406_v01.jpg,406,0,Masigo Food,color_shift
+p0406_v02.jpg,406,0,Masigo Food,layout_shift+crop_zoom+rotate
+p0406_v03.jpg,406,0,Masigo Food,scan_noise+crop_zoom+grayscale
+p0406_v04.jpg,406,0,Masigo Food,scan_noise+crop_zoom
+p0406_v05.jpg,406,0,Masigo Food,grayscale+text_typo
+p0406_v06.jpg,406,0,Masigo Food,layout_shift
+p0406_v07.jpg,406,0,Masigo Food,color_shift
+p0406_v08.jpg,406,0,Masigo Food,layout_shift
+p0411_v00.jpg,411,1,Gobaroba Mart,
+p0411_v01.jpg,411,0,Gobaroba Mart,color_shift+scan_noise+rotate
+p0411_v02.jpg,411,0,Gobaroba Mart,text_typo+scan_noise
+p0411_v03.jpg,411,0,Gobaroba Mart,scan_noise
+p0411_v04.jpg,411,0,Gobaroba Mart,text_typo+layout_shift
+p0411_v05.jpg,411,0,Gobaroba Mart,color_shift+grayscale+shape_similar
+p0411_v06.jpg,411,0,Gobaroba Mart,shape_similar+flip
+p0411_v07.jpg,411,0,Gobaroba Mart,grayscale+flip
+p0411_v08.jpg,411,0,Gobaroba Mart,layout_shift+flip+crop_zoom
+p0430_v00.jpg,430,1,Gotume Lab,
+p0430_v01.jpg,430,0,Gotume Lab,scan_noise+rotate
+p0430_v02.jpg,430,0,Gotume Lab,flip
+p0430_v03.jpg,430,0,Gotume Lab,shape_similar+rotate
+p0430_v04.jpg,430,0,Gotume Lab,flip+color_shift
+p0430_v05.jpg,430,0,Gotuma Lab,rotate+text_typo
+p0430_v06.jpg,430,0,Gotume Lab,rotate+grayscale
+p0430_v07.jpg,430,0,Gotum Lab,text_typo+layout_shift
+p0430_v08.jpg,430,0,Gotume Lab,grayscale+crop_zoom
+p0433_v00.jpg,433,1,Nimeyana,
+p0433_v01.jpg,433,0,Nimeyana,grayscale+flip+scan_noise
+p0433_v02.jpg,433,0,Nimeyana,scan_noise+shape_similar
+p0433_v03.jpg,433,0,Nimeyana,flip+color_shift+scan_noise
+p0433_v04.jpg,433,0,Nimeyana,shape_similar
+p0433_v05.jpg,433,0,Nimeyena,text_typo+shape_similar
+p0433_v06.jpg,433,0,Nimeyana,color_shift
+p0433_v07.jpg,433,0,Nimeyana,scan_noise
+p0433_v08.jpg,433,0,Nimeyana,flip+shape_similar
+p0460_v00.jpg,460,1,Sitape Studio,
+p0460_v01.jpg,460,0,Sitape Studio,color_shift
+p0460_v02.jpg,460,0,Sitape Studio,text_typo+scan_noise
+p0460_v03.jpg,460,0,Sitape Studio,rotate+text_typo
+p0460_v04.jpg,460,0,Sitape Studio,color_shift
+p0460_v05.jpg,460,0,Sitape Studio,grayscale
+p0460_v06.jpg,460,0,Sitape Studio,scan_noise+color_shift
+p0460_v07.jpg,460,0,Sitape Studio,color_shift
+p0460_v08.jpg,460,0,Sitape Studio,text_typo+crop_zoom+flip
+p0465_v00.jpg,465,1,Masu,
+p0465_v01.jpg,465,0,Masu,scan_noise
+p0465_v02.jpg,465,0,Masu Lab,grayscale+suffix_change
+p0465_v03.jpg,465,0,Masu,grayscale
+p0465_v04.jpg,465,0,Masu,flip
+p0465_v05.jpg,465,0,Maus,shape_similar+text_typo
+p0465_v06.jpg,465,0,Masu,scan_noise+layout_shift+color_shift
+p0465_v07.jpg,465,0,Masu,flip+layout_shift
+p0465_v08.jpg,465,0,Masu,layout_shift+rotate
+p0470_v00.jpg,470,1,Losigari Studio,
+p0470_v01.jpg,470,0,Losigari Tea,suffix_change
+p0470_v02.jpg,470,0,Losigari Studio,layout_shift
+p0470_v03.jpg,470,0,Losigari Studio,rotate+color_shift+shape_similar
+p0470_v04.jpg,470,0,Losigari,suffix_change
+p0470_v05.jpg,470,0,Losigari Studio,flip
+p0470_v06.jpg,470,0,Losigari Studio,scan_noise
+p0470_v07.jpg,470,0,Losigari Studio,rotate+layout_shift
+p0470_v08.jpg,470,0,Losigani Tech,text_typo+suffix_change+scan_noise
+p0471_v00.jpg,471,1,Rada Tea,
+p0471_v01.jpg,471,0,Rada Tea,color_shift
+p0471_v02.jpg,471,0,Rada Tea,rotate+grayscale
+p0471_v03.jpg,471,0,Rada Tea,flip
+p0471_v04.jpg,471,0,Rada Tea,rotate
+p0471_v05.jpg,471,0,Rada Tea,scan_noise+crop_zoom
+p0471_v06.jpg,471,0,Rada Tea,shape_similar+color_shift
+p0471_v07.jpg,471,0,Rada Tea,color_shift
+p0471_v08.jpg,471,0,Rada Tea,grayscale+flip
+p0474_v00.jpg,474,1,Lopego Mart,
+p0474_v01.jpg,474,0,Lopago Mart,text_typo+flip
+p0474_v02.jpg,474,0,Lopego Mart,color_shift
+p0474_v03.jpg,474,0,Lopego Mart,crop_zoom
+p0474_v04.jpg,474,0,Lopego Mart,flip+crop_zoom
+p0474_v05.jpg,474,0,Lopego Mart,flip+layout_shift
+p0474_v06.jpg,474,0,Lopeo,text_typo+suffix_change
+p0474_v07.jpg,474,0,Lopego Mart,layout_shift
+p0474_v08.jpg,474,0,Lopegu Mart,layout_shift+text_typo
+p0512_v00.jpg,512,1,Garo Jaya,
+p0512_v01.jpg,512,0,Gano Jaya,flip+text_typo
+p0512_v02.jpg,512,0,Gro Jaya,text_typo
+p0512_v03.jpg,512,0,Garu Jaya,text_typo+rotate+layout_shift
+p0512_v04.jpg,512,0,Garo Jaya,layout_shift
+p0512_v05.jpg,512,0,Gaor Jaya,flip+text_typo+grayscale
+p0512_v06.jpg,512,0,Gaor Jaya,color_shift+layout_shift+text_typo
+p0512_v07.jpg,512,0,Garo Jaya,shape_similar+flip
+p0512_v08.jpg,512,0,Garo Jaya,color_shift
+p0518_v00.jpg,518,1,Darokuja Lab,
+p0518_v01.jpg,518,0,Darokuja Lab,layout_shift+grayscale
+p0518_v02.jpg,518,0,Darokuja Lab,grayscale+shape_similar
+p0518_v03.jpg,518,0,Darokuja Studio,suffix_change
+p0518_v04.jpg,518,0,Darokuja Lab,scan_noise
+p0518_v05.jpg,518,0,Darokuja Abadi,suffix_change+flip
+p0518_v06.jpg,518,0,Daorkuja Lab,color_shift+text_typo+rotate
+p0518_v07.jpg,518,0,Darokuja Lab,grayscale
+p0518_v08.jpg,518,0,Darokuja Lab,shape_similar
+p0547_v00.jpg,547,1,Nisarago Tech,
+p0547_v01.jpg,547,0,Nisarago Tech,rotate
+p0547_v02.jpg,547,0,Nizarago Food,text_typo+suffix_change
+p0547_v03.jpg,547,0,Nlsarago Tech,text_typo+grayscale
+p0547_v04.jpg,547,0,Nisarago Tech,flip
+p0547_v05.jpg,547,0,Nisarago Tech,scan_noise
+p0547_v06.jpg,547,0,Nisarago Tech,color_shift
+p0547_v07.jpg,547,0,Nisaraggo Tech,text_typo
+p0547_v08.jpg,547,0,Nisarago Jaya,suffix_change+flip
+p0550_v00.jpg,550,1,Rinuga Food,
+p0550_v01.jpg,550,0,Rinuga Food,flip
+p0550_v02.jpg,550,0,Rinuga Food,layout_shift
+p0550_v03.jpg,550,0,Rinuga Food,layout_shift+rotate
+p0550_v04.jpg,550,0,Rinuga Food,scan_noise
+p0550_v05.jpg,550,0,Rinuga Food,scan_noise+rotate+shape_similar
+p0550_v06.jpg,550,0,Rinuga Food,grayscale+text_typo
+p0550_v07.jpg,550,0,Rinuga Food,layout_shift+text_typo
+p0550_v08.jpg,550,0,Rinuga Food,text_typo+layout_shift
+p0552_v00.jpg,552,1,Naranuro Tech,
+p0552_v01.jpg,552,0,Naranuro Tech,rotate+shape_similar
+p0552_v02.jpg,552,0,Narnuro Tech,shape_similar+text_typo
+p0552_v03.jpg,552,0,Naranuro Tech,crop_zoom
+p0552_v04.jpg,552,0,Naranuro Tech,scan_noise+shape_similar+color_shift
+p0552_v05.jpg,552,0,Naranuro Lab,suffix_change
+p0552_v06.jpg,552,0,Naranuro Tech,shape_similar+layout_shift
+p0552_v07.jpg,552,0,Naranuro Tech,scan_noise
+p0552_v08.jpg,552,0,Naranuro,suffix_change+flip+color_shift
+p0559_v00.jpg,559,1,Roka,
+p0559_v01.jpg,559,0,Rooka,flip+text_typo+rotate
+p0559_v02.jpg,559,0,Roka,rotate+scan_noise
+p0559_v03.jpg,559,0,Roka,crop_zoom
+p0559_v04.jpg,559,0,Roka,rotate+flip
+p0559_v05.jpg,559,0,Roka,shape_similar
+p0559_v06.jpg,559,0,Ruka,flip+layout_shift+text_typo
+p0559_v07.jpg,559,0,Rooka,grayscale+text_typo+flip
+p0559_v08.jpg,559,0,Roka,grayscale+layout_shift
+p0566_v00.jpg,566,1,Kakulolo Abadi,
+p0566_v01.jpg,566,0,Kakulolo Abadi,shape_similar+layout_shift
+p0566_v02.jpg,566,0,Kakulolo Abadi,scan_noise
+p0566_v03.jpg,566,0,Kakulolo Studio,suffix_change+shape_similar
+p0566_v04.jpg,566,0,Kakulolo Abadi,layout_shift+flip
+p0566_v05.jpg,566,0,Kakulolo Abadi,grayscale+flip
+p0566_v06.jpg,566,0,Kakulolo Abadi,crop_zoom
+p0566_v07.jpg,566,0,Kakulolo Jaya,suffix_change+crop_zoom
+p0566_v08.jpg,566,0,Kakulolo Group,grayscale+suffix_change
+p0571_v00.jpg,571,1,Godiyasi Group,
+p0571_v01.jpg,571,0,Goodiyasi Abadi,suffix_change+color_shift+text_typo
+p0571_v02.jpg,571,0,Godiyas Group,text_typo
+p0571_v03.jpg,571,0,Godiyasi Group,shape_similar
+p0571_v04.jpg,571,0,Godiyasi Group,flip
+p0571_v05.jpg,571,0,Godiyasi Group,flip
+p0571_v06.jpg,571,0,Godlyasi Group,color_shift+text_typo+grayscale
+p0571_v07.jpg,571,0,Godiyais Group,text_typo+grayscale
+p0571_v08.jpg,571,0,Godiyazi Group,scan_noise+text_typo
+p0575_v00.jpg,575,1,Rato,
+p0575_v01.jpg,575,0,Rato,shape_similar+crop_zoom
+p0575_v02.jpg,575,0,Rato,color_shift
+p0575_v03.jpg,575,0,Rato,layout_shift
+p0575_v04.jpg,575,0,Rato,shape_similar+layout_shift+scan_noise
+p0575_v05.jpg,575,0,Rato,layout_shift
+p0575_v06.jpg,575,0,Ratto Tech,text_typo+suffix_change+layout_shift
+p0575_v07.jpg,575,0,Rato Tech,suffix_change+layout_shift
+p0575_v08.jpg,575,0,Rato,flip+color_shift
+p0581_v00.jpg,581,1,Tutubu Food,
+p0581_v01.jpg,581,0,Tuttubu Food,text_typo+rotate+layout_shift
+p0581_v02.jpg,581,0,Tutubu Food,shape_similar+rotate+crop_zoom
+p0581_v03.jpg,581,0,Tutubu Food,shape_similar
+p0581_v04.jpg,581,0,Tutubu Food,rotate
+p0581_v05.jpg,581,0,Tutubu Food,crop_zoom+rotate
+p0581_v06.jpg,581,0,Tutubu Food,color_shift+flip
+p0581_v07.jpg,581,0,Tutubu Food,flip
+p0581_v08.jpg,581,0,Tutuubu Food,layout_shift+text_typo
+p0592_v00.jpg,592,1,Lala Studio,
+p0592_v01.jpg,592,0,Lala Studio,scan_noise+layout_shift+crop_zoom
+p0592_v02.jpg,592,0,Lala Kopi,scan_noise+color_shift+suffix_change
+p0592_v03.jpg,592,0,Lala Studio,rotate
+p0592_v04.jpg,592,0,Lela Studio,rotate+text_typo+shape_similar
+p0592_v05.jpg,592,0,Lala Studio,scan_noise+grayscale
+p0592_v06.jpg,592,0,Lala,suffix_change+crop_zoom+grayscale
+p0592_v07.jpg,592,0,Lala Studio,scan_noise+rotate+grayscale
+p0592_v08.jpg,592,0,Lala Studio,flip
+p0604_v00.jpg,604,1,Galato Lab,
+p0604_v01.jpg,604,0,Galato Lab,rotate+grayscale+shape_similar
+p0604_v02.jpg,604,0,Galato Lab,shape_similar+scan_noise
+p0604_v03.jpg,604,0,Galato Lab,flip+scan_noise+color_shift
+p0604_v04.jpg,604,0,Galaato Lab,crop_zoom+text_typo
+p0604_v05.jpg,604,0,Galato Lab,scan_noise
+p0604_v06.jpg,604,0,Galato Lab,color_shift
+p0604_v07.jpg,604,0,Galato Lab,scan_noise
+p0604_v08.jpg,604,0,Galato Tea,flip+crop_zoom+suffix_change
+p0605_v00.jpg,605,1,Tuniwi Tea,
+p0605_v01.jpg,605,0,Tuniwi Tea,crop_zoom+scan_noise
+p0605_v02.jpg,605,0,Tuniwi Tea,color_shift
+p0605_v03.jpg,605,0,Tuniwi Tea,grayscale
+p0605_v04.jpg,605,0,Tuniwi Tea,rotate
+p0605_v05.jpg,605,0,Tuniwi Tea,scan_noise+grayscale
+p0605_v06.jpg,605,0,Tuniwwi Tea,text_typo
+p0605_v07.jpg,605,0,Tuniwi Tea,color_shift
+p0605_v08.jpg,605,0,Tuniwi Tea,flip+color_shift
+p0617_v00.jpg,617,1,Gamadi Abadi,
+p0617_v01.jpg,617,0,Gamadi Abadi,grayscale
+p0617_v02.jpg,617,0,Gamadi Abadi,rotate
+p0617_v03.jpg,617,0,Gamadi Abadi,scan_noise+text_typo
+p0617_v04.jpg,617,0,Gamadi Abadi,layout_shift+text_typo
+p0617_v05.jpg,617,0,Gamadi Abadi,scan_noise+rotate
+p0617_v06.jpg,617,0,Gamadi Abadi,flip+scan_noise+layout_shift
+p0617_v07.jpg,617,0,Gamadi Abadi,flip
+p0617_v08.jpg,617,0,Gamadi Abadi,scan_noise
+p0619_v00.jpg,619,1,Nabanisu,
+p0619_v01.jpg,619,0,Nabanisu,shape_similar+color_shift
+p0619_v02.jpg,619,0,Nabanisu,shape_similar+grayscale+rotate
+p0619_v03.jpg,619,0,Nabnisu,grayscale+scan_noise+text_typo
+p0619_v04.jpg,619,0,Nabanisu Jaya,scan_noise+suffix_change
+p0619_v05.jpg,619,0,Nabanisu,flip+layout_shift
+p0619_v06.jpg,619,0,Nabanisu,crop_zoom
+p0619_v07.jpg,619,0,Nabanisu,rotate+color_shift+crop_zoom
+p0619_v08.jpg,619,0,Nabanizu,crop_zoom+text_typo
+p0624_v00.jpg,624,1,Anke Abadi,
+p0624_v01.jpg,624,0,Anke Abadi,crop_zoom+shape_similar
+p0624_v02.jpg,624,0,Anke Abadi,color_shift+flip
+p0624_v03.jpg,624,0,Anke Abadi,scan_noise
+p0624_v04.jpg,624,0,Anke Abadi,grayscale
+p0624_v05.jpg,624,0,Anke Abadi,flip
+p0624_v06.jpg,624,0,Anke Abadi,grayscale+layout_shift
+p0624_v07.jpg,624,0,Anke Abadi,crop_zoom
+p0624_v08.jpg,624,0,Anke Abadi,crop_zoom
+p0634_v00.jpg,634,1,Roronara Studio,
+p0634_v01.jpg,634,0,Roronara Studio,layout_shift+crop_zoom+shape_similar
+p0634_v02.jpg,634,0,Roronara Studio,layout_shift
+p0634_v03.jpg,634,0,Roronara Studio,layout_shift
+p0634_v04.jpg,634,0,Roronara Studio,rotate
+p0634_v05.jpg,634,0,Roronara Studio,flip
+p0634_v06.jpg,634,0,Roronara Studio,scan_noise+rotate
+p0634_v07.jpg,634,0,Roronara Studio,layout_shift+grayscale+shape_similar
+p0634_v08.jpg,634,0,Roronara Studio,color_shift+layout_shift
+p0644_v00.jpg,644,1,Keperime Lab,
+p0644_v01.jpg,644,0,Keperime Lab,layout_shift
+p0644_v02.jpg,644,0,Keperime Lab,scan_noise
+p0644_v03.jpg,644,0,Keperime Lab,shape_similar+color_shift+flip
+p0644_v04.jpg,644,0,Keperime Lab,color_shift
+p0644_v05.jpg,644,0,Keperime Tea,suffix_change+color_shift+scan_noise
+p0644_v06.jpg,644,0,Keperime Lab,layout_shift
+p0644_v07.jpg,644,0,Keperime Lab,rotate
+p0644_v08.jpg,644,0,Keperime Lab,flip
+p0651_v00.jpg,651,1,Tayape,
+p0651_v01.jpg,651,0,Tayape Studio,suffix_change+rotate
+p0651_v02.jpg,651,0,Tayape,flip
+p0651_v03.jpg,651,0,Tayapa,text_typo+rotate+flip
+p0651_v04.jpg,651,0,Tayape,color_shift
+p0651_v05.jpg,651,0,Tayape,crop_zoom
+p0651_v06.jpg,651,0,Tayape Food,color_shift+suffix_change+shape_similar
+p0651_v07.jpg,651,0,Tayape,flip
+p0651_v08.jpg,651,0,Tayape Kopi,suffix_change+layout_shift+crop_zoom
+p0655_v00.jpg,655,1,Buandago Kopi,
+p0655_v01.jpg,655,0,Buandago Studio,grayscale+suffix_change+crop_zoom
+p0655_v02.jpg,655,0,Buandgao Kopi,text_typo+shape_similar
+p0655_v03.jpg,655,0,Buandago Kopi,grayscale+flip
+p0655_v04.jpg,655,0,Buandago,color_shift+suffix_change
+p0655_v05.jpg,655,0,Buandago Kopi,shape_similar+rotate
+p0655_v06.jpg,655,0,Buandagu Kopi,text_typo
+p0655_v07.jpg,655,0,Buandago Kopi,rotate+color_shift
+p0655_v08.jpg,655,0,Buandago Kopi,grayscale
+p0656_v00.jpg,656,1,Tobuke Lab,
+p0656_v01.jpg,656,0,Tobuke Lab,crop_zoom+rotate
+p0656_v02.jpg,656,0,Tobuke Group,suffix_change
+p0656_v03.jpg,656,0,Tobuke Lab,layout_shift+color_shift
+p0656_v04.jpg,656,0,Tobuke Lab,scan_noise
+p0656_v05.jpg,656,0,Tobuke,suffix_change+scan_noise+crop_zoom
+p0656_v06.jpg,656,0,Tobuke Lab,rotate
+p0656_v07.jpg,656,0,Tobuke Lab,grayscale
+p0656_v08.jpg,656,0,Tobuke Lab,rotate+grayscale
+p0659_v00.jpg,659,1,Nianri Jaya,
+p0659_v01.jpg,659,0,Nianri Jaya,flip
+p0659_v02.jpg,659,0,Nianri Jaya,shape_similar+color_shift
+p0659_v03.jpg,659,0,Nianri Jaya,grayscale+color_shift+text_typo
+p0659_v04.jpg,659,0,Nianri Jaya,shape_similar+color_shift
+p0659_v05.jpg,659,0,Nianri Jaya,layout_shift
+p0659_v06.jpg,659,0,Nianri Jaya,text_typo+flip+color_shift
+p0659_v07.jpg,659,0,Nianri Jaya,scan_noise
+p0659_v08.jpg,659,0,Nianri Jaya,grayscale+scan_noise
+p0664_v00.jpg,664,1,Ragolope Studio,
+p0664_v01.jpg,664,0,Ragolope,suffix_change+shape_similar+crop_zoom
+p0664_v02.jpg,664,0,Ragolope Mart,suffix_change+layout_shift+scan_noise
+p0664_v03.jpg,664,0,Ragolope Studio,color_shift
+p0664_v04.jpg,664,0,Ragolope Studio,flip
+p0664_v05.jpg,664,0,Ragolope Jaya,crop_zoom+suffix_change
+p0664_v06.jpg,664,0,Ragolope Studio,crop_zoom+flip
+p0664_v07.jpg,664,0,Ragoiope Tea,crop_zoom+text_typo+suffix_change
+p0664_v08.jpg,664,0,Ragolope Studio,rotate+crop_zoom
+p0666_v00.jpg,666,1,Rope Lab,
+p0666_v01.jpg,666,0,Rope Lab,rotate
+p0666_v02.jpg,666,0,Rope,flip+suffix_change
+p0666_v03.jpg,666,0,Rope Lab,layout_shift+color_shift+scan_noise
+p0666_v04.jpg,666,0,Ropee Abadi,suffix_change+text_typo
+p0666_v05.jpg,666,0,Rope Tech,rotate+suffix_change
+p0666_v06.jpg,666,0,Rope Lab,layout_shift
+p0666_v07.jpg,666,0,Rope Lab,grayscale
+p0666_v08.jpg,666,0,Rope Lab,grayscale
+p0672_v00.jpg,672,1,Metasa Lab,
+p0672_v01.jpg,672,0,Metasa Lab,color_shift+rotate
+p0672_v02.jpg,672,0,Metasa Food,shape_similar+suffix_change
+p0672_v03.jpg,672,0,Metasa Lab,layout_shift
+p0672_v04.jpg,672,0,Metasa Food,suffix_change
+p0672_v05.jpg,672,0,Metasa,scan_noise+suffix_change
+p0672_v06.jpg,672,0,Metasa Lab,layout_shift
+p0672_v07.jpg,672,0,Metasa Lab,scan_noise
+p0672_v08.jpg,672,0,Metasa Abadi,suffix_change+shape_similar
+p0678_v00.jpg,678,1,Gatuku,
+p0678_v01.jpg,678,0,Gatuku,layout_shift
+p0678_v02.jpg,678,0,Gatuku,crop_zoom
+p0678_v03.jpg,678,0,Gatuku,text_typo
+p0678_v04.jpg,678,0,Gatuku,grayscale
+p0678_v05.jpg,678,0,Gatuku,layout_shift
+p0678_v06.jpg,678,0,Gatuku,crop_zoom+color_shift
+p0678_v07.jpg,678,0,Gatuku,grayscale+text_typo
+p0678_v08.jpg,678,0,Gatuku,layout_shift
+p0687_v00.jpg,687,1,Anrasu Tea,
+p0687_v01.jpg,687,0,Anrasu Tea,layout_shift
+p0687_v02.jpg,687,0,Anrasu Tea,layout_shift+color_shift
+p0687_v03.jpg,687,0,Anrasu Tea,color_shift+crop_zoom
+p0687_v04.jpg,687,0,Anrasu Tea,layout_shift+grayscale
+p0687_v05.jpg,687,0,Anrasu Tea,flip+crop_zoom+shape_similar
+p0687_v06.jpg,687,0,Anrasu Tea,grayscale+color_shift
+p0687_v07.jpg,687,0,Anrasu Tea,rotate+text_typo+layout_shift
+p0687_v08.jpg,687,0,Anrasu Tea,layout_shift+text_typo+shape_similar
+p0693_v00.jpg,693,1,Dikume Kopi,
+p0693_v01.jpg,693,0,Dikume Kopi,scan_noise
+p0693_v02.jpg,693,0,Dikume Kopi,layout_shift+color_shift
+p0693_v03.jpg,693,0,Dikume Kopi,layout_shift
+p0693_v04.jpg,693,0,Dikume Kopi,grayscale+shape_similar
+p0693_v05.jpg,693,0,Dikume Kopi,text_typo
+p0693_v06.jpg,693,0,Dikume Kopi,crop_zoom+scan_noise
+p0693_v07.jpg,693,0,Dikume Kopi,layout_shift+flip
+p0693_v08.jpg,693,0,Dikume Kopi,scan_noise+rotate
+p0700_v00.jpg,700,1,Rome Group,
+p0700_v01.jpg,700,0,Rome Group,layout_shift
+p0700_v02.jpg,700,0,Rome Group,layout_shift
+p0700_v03.jpg,700,0,Rone Group,text_typo+shape_similar
+p0700_v04.jpg,700,0,Rome Group,shape_similar+color_shift+layout_shift
+p0700_v05.jpg,700,0,Rome Group,rotate+scan_noise
+p0700_v06.jpg,700,0,Rome Group,flip+crop_zoom
+p0700_v07.jpg,700,0,Rome Group,shape_similar+flip
+p0700_v08.jpg,700,0,Rome Group,crop_zoom+shape_similar
+p0702_v00.jpg,702,1,Gorome Tea,
+p0702_v01.jpg,702,0,Gorome Tea,color_shift+layout_shift+shape_similar
+p0702_v02.jpg,702,0,Gorome Tea,crop_zoom+grayscale+layout_shift
+p0702_v03.jpg,702,0,Gorome Tea,layout_shift+shape_similar+crop_zoom
+p0702_v04.jpg,702,0,Gorome Tea,layout_shift+text_typo
+p0702_v05.jpg,702,0,Gorome Tea,scan_noise
+p0702_v06.jpg,702,0,Gorome Tea,text_typo+scan_noise
+p0702_v07.jpg,702,0,Gorome Tea,grayscale
+p0702_v08.jpg,702,0,Gorome Tea,layout_shift
+p0705_v00.jpg,705,1,Yatusugo Lab,
+p0705_v01.jpg,705,0,Yatusugo Lab,layout_shift+flip
+p0705_v02.jpg,705,0,Yatusugo Lab,scan_noise+shape_similar
+p0705_v03.jpg,705,0,Yatusugo Lab,text_typo+layout_shift+scan_noise
+p0705_v04.jpg,705,0,Yatusugo Lab,crop_zoom
+p0705_v05.jpg,705,0,Yatusugo Lab,flip+color_shift+shape_similar
+p0705_v06.jpg,705,0,Yatusugo Lab,flip
+p0705_v07.jpg,705,0,Yatusugo Lab,rotate+scan_noise
+p0705_v08.jpg,705,0,Yatusugo Lab,text_typo+grayscale
+p0715_v00.jpg,715,1,Gasasu Abadi,
+p0715_v01.jpg,715,0,Gasasu Abadi,rotate
+p0715_v02.jpg,715,0,Gasasu Abadi,scan_noise+layout_shift
+p0715_v03.jpg,715,0,Gasasu Abadi,crop_zoom+layout_shift
+p0715_v04.jpg,715,0,Gasasu Abadi,crop_zoom+shape_similar
+p0715_v05.jpg,715,0,Gasasu Group,suffix_change
+p0715_v06.jpg,715,0,Gasasu Jaya,suffix_change+layout_shift
+p0715_v07.jpg,715,0,Gasasu Abadi,rotate
+p0715_v08.jpg,715,0,Gasasu Abadi,scan_noise
+p0719_v00.jpg,719,1,Yalo Group,
+p0719_v01.jpg,719,0,Yalo Group,flip
+p0719_v02.jpg,719,0,Yalo Group,crop_zoom
+p0719_v03.jpg,719,0,Yalo Group,crop_zoom+color_shift
+p0719_v04.jpg,719,0,Yalo Group,crop_zoom
+p0719_v05.jpg,719,0,Yao Group,color_shift+text_typo
+p0719_v06.jpg,719,0,Yalo Group,scan_noise+rotate
+p0719_v07.jpg,719,0,Yalo Group,crop_zoom+color_shift
+p0719_v08.jpg,719,0,Yalo Group,rotate
+p0722_v00.jpg,722,1,Mesama Jaya,
+p0722_v01.jpg,722,0,Mesama Jaya,shape_similar
+p0722_v02.jpg,722,0,Mesana Jaya,text_typo+scan_noise
+p0722_v03.jpg,722,0,Mesama Jaya,scan_noise+layout_shift
+p0722_v04.jpg,722,0,Mesama Mart,crop_zoom+rotate+suffix_change
+p0722_v05.jpg,722,0,Mesama Jaya,layout_shift+shape_similar
+p0722_v06.jpg,722,0,Mseama Jaya,flip+text_typo+grayscale
+p0722_v07.jpg,722,0,Mesama Jaya,flip+layout_shift
+p0722_v08.jpg,722,0,Mesana Jaya,layout_shift+shape_similar+text_typo
+p0734_v00.jpg,734,1,Kago Tea,
+p0734_v01.jpg,734,0,Kago Tea,scan_noise
+p0734_v02.jpg,734,0,Kago Tea,text_typo
+p0734_v03.jpg,734,0,Kago Tea,color_shift
+p0734_v04.jpg,734,0,Kago Tea,crop_zoom
+p0734_v05.jpg,734,0,Kago Tea,shape_similar
+p0734_v06.jpg,734,0,Kago Tea,text_typo+flip
+p0734_v07.jpg,734,0,Kago Tea,shape_similar+flip+grayscale
+p0734_v08.jpg,734,0,Kago Tea,flip+color_shift
+p0736_v00.jpg,736,1,Daka Jaya,
+p0736_v01.jpg,736,0,Daka Jaya,shape_similar
+p0736_v02.jpg,736,0,Daka Jaya,flip
+p0736_v03.jpg,736,0,Daka Jaya,flip+scan_noise
+p0736_v04.jpg,736,0,Daka Jaya,color_shift+crop_zoom
+p0736_v05.jpg,736,0,Daka Jaya,shape_similar+color_shift+flip
+p0736_v06.jpg,736,0,Daka Jaya,rotate+flip
+p0736_v07.jpg,736,0,Daka Jaya,grayscale
+p0736_v08.jpg,736,0,Daca Lab,layout_shift+text_typo+suffix_change
+p0747_v00.jpg,747,1,Lojala Kopi,
+p0747_v01.jpg,747,0,Lujala Kopi,text_typo
+p0747_v02.jpg,747,0,Lojala Kopi,layout_shift+flip
+p0747_v03.jpg,747,0,Lojala Kopi,grayscale+rotate
+p0747_v04.jpg,747,0,Lojala Kopi,color_shift+shape_similar
+p0747_v05.jpg,747,0,Lojala Kopi,flip+crop_zoom
+p0747_v06.jpg,747,0,Lojala Tech,shape_similar+suffix_change+color_shift
+p0747_v07.jpg,747,0,Lojala Kopi,layout_shift+rotate
+p0747_v08.jpg,747,0,Lojala Kopi,crop_zoom+grayscale+shape_similar
+p0748_v00.jpg,748,1,Darowisi Group,
+p0748_v01.jpg,748,0,Darowisi Group,color_shift+layout_shift
+p0748_v02.jpg,748,0,Darowsi Group,text_typo
+p0748_v03.jpg,748,0,Darowisi Group,scan_noise+layout_shift
+p0748_v04.jpg,748,0,Darowisi Abadi,suffix_change+color_shift+shape_similar
+p0748_v05.jpg,748,0,Darowisi Group,color_shift
+p0748_v06.jpg,748,0,Darowisi Group,grayscale+crop_zoom+shape_similar
+p0748_v07.jpg,748,0,Darowisi Group,grayscale+rotate
+p0748_v08.jpg,748,0,Darowlsi Group,text_typo+flip
+p0755_v00.jpg,755,1,Rituwi Abadi,
+p0755_v01.jpg,755,0,Rituwi Abadi,layout_shift+flip
+p0755_v02.jpg,755,0,Rituwi Abadi,shape_similar
+p0755_v03.jpg,755,0,Rituwi Abadi,color_shift+grayscale+scan_noise
+p0755_v04.jpg,755,0,Rituwi Abadi,rotate
+p0755_v05.jpg,755,0,Rtuwi Abadi,text_typo
+p0755_v06.jpg,755,0,Rituwi Abadi,color_shift+layout_shift
+p0755_v07.jpg,755,0,Rituwi Abadi,shape_similar
+p0755_v08.jpg,755,0,Rituwi Abadi,shape_similar+grayscale
+p0759_v00.jpg,759,1,Rirokesi,
+p0759_v01.jpg,759,0,Rirokesi,rotate+flip+shape_similar
+p0759_v02.jpg,759,0,Rirokesi,rotate+color_shift
+p0759_v03.jpg,759,0,Rirokesi,crop_zoom+grayscale
+p0759_v04.jpg,759,0,Rirokesi,flip
+p0759_v05.jpg,759,0,Rirokesi,grayscale+layout_shift
+p0759_v06.jpg,759,0,Rirokesi Tea,suffix_change
+p0759_v07.jpg,759,0,Rirokesi,grayscale+flip+scan_noise
+p0759_v08.jpg,759,0,Rirokesi Group,suffix_change+shape_similar
+p0760_v00.jpg,760,1,Saanro Mart,
+p0760_v01.jpg,760,0,Saanro Mart,scan_noise
+p0760_v02.jpg,760,0,Saanro Mart,color_shift
+p0760_v03.jpg,760,0,Saanro Tea,suffix_change
+p0760_v04.jpg,760,0,Saanro Mart,scan_noise+layout_shift+rotate
+p0760_v05.jpg,760,0,Saanro Mart,scan_noise
+p0760_v06.jpg,760,0,Saanro Mart,scan_noise+shape_similar+color_shift
+p0760_v07.jpg,760,0,Saanro Mart,crop_zoom
+p0760_v08.jpg,760,0,Saanro Mart,scan_noise
+p0763_v00.jpg,763,1,Dabubu Tech,
+p0763_v01.jpg,763,0,Dabubu Tech,crop_zoom+shape_similar
+p0763_v02.jpg,763,0,Dabubu Abadi,suffix_change+flip+crop_zoom
+p0763_v03.jpg,763,0,Dabubu Tech,color_shift+scan_noise+rotate
+p0763_v04.jpg,763,0,Dabubu Tech,grayscale
+p0763_v05.jpg,763,0,Dabubu Tech,flip
+p0763_v06.jpg,763,0,Dabubu Tech,layout_shift
+p0763_v07.jpg,763,0,Dabubu Tech,shape_similar
+p0763_v08.jpg,763,0,Dadubu Tech,text_typo+layout_shift
+p0778_v00.jpg,778,1,Totada Tech,
+p0778_v01.jpg,778,0,Totada Tech,layout_shift
+p0778_v02.jpg,778,0,Totada Tech,shape_similar+crop_zoom
+p0778_v03.jpg,778,0,Totada Tech,flip
+p0778_v04.jpg,778,0,Totada Tech,scan_noise
+p0778_v05.jpg,778,0,Totada Tech,grayscale
+p0778_v06.jpg,778,0,Totada Food,suffix_change
+p0778_v07.jpg,778,0,Toada Tech,text_typo
+p0778_v08.jpg,778,0,Totada Tea,color_shift+suffix_change+layout_shift
+p0782_v00.jpg,782,1,Meriroku Studio,
+p0782_v01.jpg,782,0,Meriruku Studio,text_typo+scan_noise
+p0782_v02.jpg,782,0,Meriroku Studio,color_shift
+p0782_v03.jpg,782,0,Meriroku Studio,grayscale+color_shift
+p0782_v04.jpg,782,0,Meriroku,layout_shift+suffix_change+crop_zoom
+p0782_v05.jpg,782,0,Meriroku Studio,scan_noise
+p0782_v06.jpg,782,0,Meriroku Studio,shape_similar
+p0782_v07.jpg,782,0,Meriroku Tech,scan_noise+suffix_change
+p0782_v08.jpg,782,0,Meriroku Studio,shape_similar
+p0787_v00.jpg,787,1,Wita Group,
+p0787_v01.jpg,787,0,Wita Tech,suffix_change+layout_shift
+p0787_v02.jpg,787,0,Wita Group,scan_noise
+p0787_v03.jpg,787,0,Wita Group,scan_noise+crop_zoom
+p0787_v04.jpg,787,0,Wita Tea,crop_zoom+suffix_change+scan_noise
+p0787_v05.jpg,787,0,Wia Group,grayscale+text_typo
+p0787_v06.jpg,787,0,Witta Group,shape_similar+text_typo+crop_zoom
+p0787_v07.jpg,787,0,Wite Group,text_typo
+p0787_v08.jpg,787,0,Wita Group,layout_shift+grayscale
+p0792_v00.jpg,792,1,Kukadi Abadi,
+p0792_v01.jpg,792,0,Kukadi Abadi,grayscale
+p0792_v02.jpg,792,0,Kukdai Abadi,text_typo+crop_zoom
+p0792_v03.jpg,792,0,Kukadi Abadi,scan_noise+grayscale+shape_similar
+p0792_v04.jpg,792,0,Kukadi Lab,suffix_change+scan_noise+rotate
+p0792_v05.jpg,792,0,Kukadi Abadi,grayscale+scan_noise
+p0792_v06.jpg,792,0,Kukad Abadi,text_typo
+p0792_v07.jpg,792,0,Kukadi Abadi,rotate
+p0792_v08.jpg,792,0,Kkuadi Abadi,text_typo+crop_zoom
+p0795_v00.jpg,795,1,Sugosuro Studio,
+p0795_v01.jpg,795,0,Sugosuro Studio,flip+grayscale
+p0795_v02.jpg,795,0,Sugosuro Abadi,flip+suffix_change
+p0795_v03.jpg,795,0,Sugosuro Lab,color_shift+suffix_change
+p0795_v04.jpg,795,0,Sugosuno Studio,grayscale+text_typo
+p0795_v05.jpg,795,0,Sugoosuro Studio,text_typo+flip
+p0795_v06.jpg,795,0,Sugosuro Studio,rotate+crop_zoom
+p0795_v07.jpg,795,0,Sugosuor Studio,text_typo+shape_similar
+p0795_v08.jpg,795,0,Sugosuro Studio,shape_similar+layout_shift
+p0825_v00.jpg,825,1,Yaloka Kopi,
+p0825_v01.jpg,825,0,Yaloka Kopi,scan_noise
+p0825_v02.jpg,825,0,Yaloka Kopi,flip
+p0825_v03.jpg,825,0,Yaloka Kopi,rotate+color_shift+layout_shift
+p0825_v04.jpg,825,0,Yaloka Kopi,shape_similar+rotate
+p0825_v05.jpg,825,0,Yaloka Kopi,flip
+p0825_v06.jpg,825,0,Yaloka Kopi,layout_shift+shape_similar
+p0825_v07.jpg,825,0,Yaloka Kopi,scan_noise+shape_similar+layout_shift
+p0825_v08.jpg,825,0,Yaloka Kopi,color_shift+flip
+p0826_v00.jpg,826,1,Latoango Tea,
+p0826_v01.jpg,826,0,Latoango Tea,flip
+p0826_v02.jpg,826,0,Latoango Tea,shape_similar+scan_noise
+p0826_v03.jpg,826,0,Latoango Tea,layout_shift
+p0826_v04.jpg,826,0,Latoango Tea,layout_shift+flip+rotate
+p0826_v05.jpg,826,0,Latoango Tea,crop_zoom
+p0826_v06.jpg,826,0,Latoango Tea,rotate
+p0826_v07.jpg,826,0,Latoango Tea,scan_noise+flip
+p0826_v08.jpg,826,0,Latoango Tea,flip+scan_noise+text_typo
+p0827_v00.jpg,827,1,Rimanu Studio,
+p0827_v01.jpg,827,0,Rimanu Studio,rotate+scan_noise
+p0827_v02.jpg,827,0,Rimanu Tech,suffix_change+rotate+grayscale
+p0827_v03.jpg,827,0,Rimanu Studio,grayscale
+p0827_v04.jpg,827,0,Rimanu Studio,rotate
+p0827_v05.jpg,827,0,Rimenu Studio,text_typo
+p0827_v06.jpg,827,0,Rimanu Studio,layout_shift
+p0827_v07.jpg,827,0,Rimanu Group,crop_zoom+suffix_change
+p0827_v08.jpg,827,0,Rlmanu Studio,flip+text_typo
+p0829_v00.jpg,829,1,Rasu Jaya,
+p0829_v01.jpg,829,0,Raasu Jaya,text_typo
+p0829_v02.jpg,829,0,Rsu Jaya,text_typo+scan_noise
+p0829_v03.jpg,829,0,Rasu Jaya,rotate+grayscale
+p0829_v04.jpg,829,0,Rasu,suffix_change+flip
+p0829_v05.jpg,829,0,Rasu Jaya,shape_similar
+p0829_v06.jpg,829,0,Rasu Jaya,layout_shift+color_shift
+p0829_v07.jpg,829,0,Rsau Jaya,grayscale+text_typo+rotate
+p0829_v08.jpg,829,0,Rasu Jaya,grayscale+flip
+p0842_v00.jpg,842,1,Kadian,
+p0842_v01.jpg,842,0,Kadian Lab,crop_zoom+scan_noise+suffix_change
+p0842_v02.jpg,842,0,Kadian Food,suffix_change+shape_similar+layout_shift
+p0842_v03.jpg,842,0,Kadian,scan_noise+grayscale
+p0842_v04.jpg,842,0,Kadian,flip
+p0842_v05.jpg,842,0,Kadian,color_shift
+p0842_v06.jpg,842,0,Kadian,color_shift+layout_shift
+p0842_v07.jpg,842,0,Kadiam,text_typo
+p0842_v08.jpg,842,0,Kadian,color_shift+flip
+p0850_v00.jpg,850,1,Gasulo,
+p0850_v01.jpg,850,0,Gasulo,crop_zoom
+p0850_v02.jpg,850,0,Gasulo,grayscale+color_shift
+p0850_v03.jpg,850,0,Gasluo,flip+rotate+text_typo
+p0850_v04.jpg,850,0,Gasulo,scan_noise
+p0850_v05.jpg,850,0,Gasulo,shape_similar+flip+scan_noise
+p0850_v06.jpg,850,0,Gasulo Jaya,suffix_change+grayscale
+p0850_v07.jpg,850,0,Gasluo Mart,text_typo+suffix_change
+p0850_v08.jpg,850,0,Gasulo Abadi,suffix_change+rotate
+p0855_v00.jpg,855,1,Diwi Tea,
+p0855_v01.jpg,855,0,Dwi Tea,color_shift+text_typo+flip
+p0855_v02.jpg,855,0,Diwi Group,flip+suffix_change
+p0855_v03.jpg,855,0,Diwi,rotate+color_shift+suffix_change
+p0855_v04.jpg,855,0,Diwi Tea,color_shift
+p0855_v05.jpg,855,0,Diwi,suffix_change+grayscale+crop_zoom
+p0855_v06.jpg,855,0,Diwi Tea,crop_zoom
+p0855_v07.jpg,855,0,Diwi Tea,flip+color_shift
+p0855_v08.jpg,855,0,Diwi Tea,flip+grayscale
+p0864_v00.jpg,864,1,Sirobalo Mart,
+p0864_v01.jpg,864,0,Sirobalo Mart,scan_noise
+p0864_v02.jpg,864,0,Sirobalo Mart,rotate+layout_shift
+p0864_v03.jpg,864,0,Sirobalo Mart,color_shift+rotate
+p0864_v04.jpg,864,0,Sirobalo Mart,shape_similar+rotate
+p0864_v05.jpg,864,0,Sirobalo Mart,rotate
+p0864_v06.jpg,864,0,Sirobalo Mart,rotate
+p0864_v07.jpg,864,0,Sirobalo Mart,crop_zoom+shape_similar
+p0864_v08.jpg,864,0,Sirobalo Mart,grayscale
+p0868_v00.jpg,868,1,Anda Abadi,
+p0868_v01.jpg,868,0,Anda Abadi,crop_zoom
+p0868_v02.jpg,868,0,Anad Abadi,rotate+text_typo
+p0868_v03.jpg,868,0,Adna Abadi,flip+text_typo
+p0868_v04.jpg,868,0,Ada Abadi,text_typo+grayscale+scan_noise
+p0868_v05.jpg,868,0,Ana Abadi,text_typo+shape_similar+crop_zoom
+p0868_v06.jpg,868,0,Anda Mart,suffix_change+crop_zoom
+p0868_v07.jpg,868,0,Anda Abadi,color_shift+layout_shift
+p0868_v08.jpg,868,0,And Abadi,text_typo+flip
+p0876_v00.jpg,876,1,Bugoku,
+p0876_v01.jpg,876,0,Bugouk,crop_zoom+text_typo
+p0876_v02.jpg,876,0,Bugoku,crop_zoom+grayscale
+p0876_v03.jpg,876,0,Bugoku Abadi,suffix_change
+p0876_v04.jpg,876,0,Buguku,flip+text_typo
+p0876_v05.jpg,876,0,Bugoku,scan_noise
+p0876_v06.jpg,876,0,Bugoku,layout_shift
+p0876_v07.jpg,876,0,Bugoku,color_shift
+p0876_v08.jpg,876,0,Bugoku,grayscale+scan_noise
+p0883_v00.jpg,883,1,Tatotu Abadi,
+p0883_v01.jpg,883,0,Tatotu Abadi,shape_similar
+p0883_v02.jpg,883,0,Tatotu Abadi,layout_shift+rotate
+p0883_v03.jpg,883,0,Tatotu Abadi,scan_noise
+p0883_v04.jpg,883,0,Tatotu Abadi,scan_noise+shape_similar
+p0883_v05.jpg,883,0,Tatotu Abadi,color_shift+shape_similar+crop_zoom
+p0883_v06.jpg,883,0,Tatotu Abadi,grayscale
+p0883_v07.jpg,883,0,Tatotu Abadi,grayscale
+p0883_v08.jpg,883,0,Tatotu Abadi,grayscale
+p0888_v00.jpg,888,1,Andito Abadi,
+p0888_v01.jpg,888,0,Andito Abadi,rotate
+p0888_v02.jpg,888,0,Andito Abadi,layout_shift
+p0888_v03.jpg,888,0,Andito Abadi,rotate+crop_zoom+scan_noise
+p0888_v04.jpg,888,0,Andito Abadi,shape_similar+crop_zoom
+p0888_v05.jpg,888,0,Andito Abadi,scan_noise
+p0888_v06.jpg,888,0,Andito Abadi,scan_noise+crop_zoom
+p0888_v07.jpg,888,0,Andito Abadi,layout_shift+scan_noise
+p0888_v08.jpg,888,0,Andito Abadi,flip+shape_similar+crop_zoom
+p0891_v00.jpg,891,1,Buyatoke Group,
+p0891_v01.jpg,891,0,Buyatoke Group,color_shift+crop_zoom
+p0891_v02.jpg,891,0,Buyatoke Group,color_shift
+p0891_v03.jpg,891,0,Buyatoke Group,scan_noise+crop_zoom+color_shift
+p0891_v04.jpg,891,0,Buyatoke Group,grayscale
+p0891_v05.jpg,891,0,Buyatoke Tea,suffix_change
+p0891_v06.jpg,891,0,Buoatoke Group,text_typo
+p0891_v07.jpg,891,0,Buyatoke Group,color_shift+shape_similar+rotate
+p0891_v08.jpg,891,0,Buyatoke Jaya,suffix_change
+p0907_v00.jpg,907,1,Makeba Tech,
+p0907_v01.jpg,907,0,Makeeba Tech,text_typo
+p0907_v02.jpg,907,0,Makeba Tech,scan_noise+color_shift+rotate
+p0907_v03.jpg,907,0,Makeba Tech,color_shift
+p0907_v04.jpg,907,0,Makeba Tech,crop_zoom+scan_noise+color_shift
+p0907_v05.jpg,907,0,Mekeba Tech,text_typo
+p0907_v06.jpg,907,0,Makeba Tech,crop_zoom+scan_noise
+p0907_v07.jpg,907,0,Makeba Tech,crop_zoom+flip
+p0907_v08.jpg,907,0,Makeba Tech,flip+crop_zoom
+p0908_v00.jpg,908,1,Tori Studio,
+p0908_v01.jpg,908,0,Tori Studio,shape_similar+flip+color_shift
+p0908_v02.jpg,908,0,Tori Studio,crop_zoom+scan_noise
+p0908_v03.jpg,908,0,Torri Studio,grayscale+rotate+text_typo
+p0908_v04.jpg,908,0,Tori Studio,scan_noise+grayscale
+p0908_v05.jpg,908,0,Tori Studio,scan_noise
+p0908_v06.jpg,908,0,Tori Studio,rotate
+p0908_v07.jpg,908,0,Tori Studio,layout_shift+shape_similar
+p0908_v08.jpg,908,0,Tori Studio,rotate
+p0914_v00.jpg,914,1,Tamenaya Kopi,
+p0914_v01.jpg,914,0,Tamenaya Kopi,crop_zoom+layout_shift
+p0914_v02.jpg,914,0,Tamenaya Tea,suffix_change
+p0914_v03.jpg,914,0,Tamenaya Kopi,scan_noise
+p0914_v04.jpg,914,0,Tameneya Kopi,text_typo
+p0914_v05.jpg,914,0,Tamenaya Food,scan_noise+suffix_change
+p0914_v06.jpg,914,0,Tamenaya Kopi,layout_shift+rotate
+p0914_v07.jpg,914,0,Tamenaya Abadi,layout_shift+suffix_change
+p0914_v08.jpg,914,0,Tamenaya Kopi,color_shift
+p0948_v00.jpg,948,1,Suku Tech,
+p0948_v01.jpg,948,0,Suku Tech,shape_similar
+p0948_v02.jpg,948,0,Suku Tech,shape_similar
+p0948_v03.jpg,948,0,Suku Tech,crop_zoom+layout_shift
+p0948_v04.jpg,948,0,Suku Tech,grayscale+shape_similar+text_typo
+p0948_v05.jpg,948,0,Suku Tech,scan_noise
+p0948_v06.jpg,948,0,Suku Tech,crop_zoom+layout_shift
+p0948_v07.jpg,948,0,Suku Tech,shape_similar
+p0948_v08.jpg,948,0,Suku Tech,layout_shift
+p0955_v00.jpg,955,1,Matoke,
+p0955_v01.jpg,955,0,Matoke,crop_zoom
+p0955_v02.jpg,955,0,Matoke,rotate+shape_similar
+p0955_v03.jpg,955,0,Matoke,grayscale
+p0955_v04.jpg,955,0,Mtaoke,scan_noise+rotate+text_typo
+p0955_v05.jpg,955,0,Matoke Jaya,color_shift+suffix_change
+p0955_v06.jpg,955,0,Matoke,flip
+p0955_v07.jpg,955,0,Matoke,flip+grayscale+scan_noise
+p0955_v08.jpg,955,0,Matoke,shape_similar
+p0965_v00.jpg,965,1,Manitoda Tea,
+p0965_v01.jpg,965,0,Manitoda Tea,color_shift+flip
+p0965_v02.jpg,965,0,Manitoda Tea,rotate
+p0965_v03.jpg,965,0,Manitoda Tea,grayscale+shape_similar
+p0965_v04.jpg,965,0,Mamitoda Tea,color_shift+text_typo+crop_zoom
+p0965_v05.jpg,965,0,Manitoda,suffix_change
+p0965_v06.jpg,965,0,Manitoda Tea,rotate
+p0965_v07.jpg,965,0,Manitoda Abadi,suffix_change+shape_similar
+p0965_v08.jpg,965,0,Manitoda Tea,flip
+p0971_v00.jpg,971,1,Risaloba,
+p0971_v01.jpg,971,0,Risaloba,color_shift+crop_zoom+rotate
+p0971_v02.jpg,971,0,Risaloba,layout_shift+color_shift
+p0971_v03.jpg,971,0,Risaloba,layout_shift
+p0971_v04.jpg,971,0,Risaloba,shape_similar
+p0971_v05.jpg,971,0,Risaloba,shape_similar+flip+grayscale
+p0971_v06.jpg,971,0,Risaloba Kopi,suffix_change
+p0971_v07.jpg,971,0,Risaloba,color_shift
+p0971_v08.jpg,971,0,Risaloba,crop_zoom+color_shift+layout_shift
+p0975_v00.jpg,975,1,Ketaba Lab,
+p0975_v01.jpg,975,0,Ketaba Studio,layout_shift+suffix_change
+p0975_v02.jpg,975,0,Ketaba Lab,scan_noise+crop_zoom
+p0975_v03.jpg,975,0,Ketabaa Lab,text_typo+flip
+p0975_v04.jpg,975,0,Ketaa Jaya,crop_zoom+text_typo+suffix_change
+p0975_v05.jpg,975,0,Keaba Lab,layout_shift+text_typo+grayscale
+p0975_v06.jpg,975,0,Ketaba Lab,color_shift
+p0975_v07.jpg,975,0,Ketaba Lab,shape_similar
+p0975_v08.jpg,975,0,Ketaba Tech,suffix_change+crop_zoom
+p0979_v00.jpg,979,1,Gotowi,
+p0979_v01.jpg,979,0,Gotowi,text_typo
+p0979_v02.jpg,979,0,Gotowi,grayscale+crop_zoom
+p0979_v03.jpg,979,0,Gotowi,flip+text_typo+grayscale
+p0979_v04.jpg,979,0,Gotowi,scan_noise+grayscale+layout_shift
+p0979_v05.jpg,979,0,Gotowi,layout_shift
+p0979_v06.jpg,979,0,Gotowi,shape_similar+scan_noise
+p0979_v07.jpg,979,0,Gotowi,flip+crop_zoom+color_shift
+p0979_v08.jpg,979,0,Gotowi,grayscale+rotate
+p0983_v00.jpg,983,1,Rani Jaya,
+p0983_v01.jpg,983,0,Rani Jaya,rotate+shape_similar
+p0983_v02.jpg,983,0,Rani Jaya,scan_noise
+p0983_v03.jpg,983,0,Rani Jaya,flip+color_shift
+p0983_v04.jpg,983,0,Rani Jaya,text_typo
+p0983_v05.jpg,983,0,Rani Jaya,text_typo+grayscale
+p0983_v06.jpg,983,0,Rani Jaya,color_shift+crop_zoom
+p0983_v07.jpg,983,0,Rani Jaya,scan_noise
+p0983_v08.jpg,983,0,Rani Jaya,crop_zoom+shape_similar
+p0984_v00.jpg,984,1,Niwi,
+p0984_v01.jpg,984,0,Niwi,grayscale
+p0984_v02.jpg,984,0,Niiwi,text_typo+scan_noise
+p0984_v03.jpg,984,0,Nwii,shape_similar+text_typo
+p0984_v04.jpg,984,0,Niwi,layout_shift
+p0984_v05.jpg,984,0,Niwi,layout_shift+rotate
+p0984_v06.jpg,984,0,Niwi,layout_shift
+p0984_v07.jpg,984,0,Niiwi,text_typo
+p0984_v08.jpg,984,0,Niwi,scan_noise
+p0987_v00.jpg,987,1,Bujapesu Tech,
+p0987_v01.jpg,987,0,Bujapesu Tech,rotate+color_shift
+p0987_v02.jpg,987,0,Bujapesu Tech,layout_shift+rotate
+p0987_v03.jpg,987,0,Bujapesu,suffix_change
+p0987_v04.jpg,987,0,Bujapesu Tech,rotate+grayscale+color_shift
+p0987_v05.jpg,987,0,Bujapesu Tech,rotate+grayscale
+p0987_v06.jpg,987,0,Bujpesu Lab,suffix_change+layout_shift+text_typo
+p0987_v07.jpg,987,0,Bujapeus Tech,color_shift+text_typo
+p0987_v08.jpg,987,0,Bujapesu Tech,shape_similar
+p0991_v00.jpg,991,1,Nitayada Studio,
+p0991_v01.jpg,991,0,Nitayada Studio,flip+color_shift+grayscale
+p0991_v02.jpg,991,0,Nitayada Studio,crop_zoom
+p0991_v03.jpg,991,0,Nitayada Studio,grayscale
+p0991_v04.jpg,991,0,Nitayada Studio,grayscale
+p0991_v05.jpg,991,0,Nitayada Studio,scan_noise+crop_zoom
+p0991_v06.jpg,991,0,Nitayada Studio,shape_similar
+p0991_v07.jpg,991,0,Nitayada Studio,flip+crop_zoom+grayscale
+p0991_v08.jpg,991,0,Nitaayada Studio,grayscale+layout_shift+text_typo
+p0993_v00.jpg,993,1,Sarasa Lab,
+p0993_v01.jpg,993,0,Sarasa Lab,scan_noise+color_shift
+p0993_v02.jpg,993,0,Sarasa Lab,color_shift+flip
+p0993_v03.jpg,993,0,Sarasa,suffix_change
+p0993_v04.jpg,993,0,Sarasa Lab,rotate
+p0993_v05.jpg,993,0,Sarrasa Lab,scan_noise+rotate+text_typo
+p0993_v06.jpg,993,0,Sarasa Lab,shape_similar
+p0993_v07.jpg,993,0,Sarsa Lab,text_typo+crop_zoom+rotate
+p0993_v08.jpg,993,0,Sarasa Tech,suffix_change
+p0995_v00.jpg,995,1,Pewi Mart,
+p0995_v01.jpg,995,0,Pewi Mart,crop_zoom+layout_shift
+p0995_v02.jpg,995,0,Pewi Mart,flip+rotate+crop_zoom
+p0995_v03.jpg,995,0,Pewi Mart,scan_noise
+p0995_v04.jpg,995,0,Pewi Mart,layout_shift
+p0995_v05.jpg,995,0,Pewi,suffix_change+crop_zoom+scan_noise
+p0995_v06.jpg,995,0,Pewi Mart,scan_noise+layout_shift+rotate
+p0995_v07.jpg,995,0,Pewi Studio,suffix_change
+p0995_v08.jpg,995,0,Pewi Mart,shape_similar+layout_shift

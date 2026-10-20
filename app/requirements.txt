@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+open_clip_torch
+faiss-cpu
+streamlit
+pandas
+numpy
+pillow
